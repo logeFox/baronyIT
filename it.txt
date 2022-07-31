@@ -1,0 +1,349 @@
+# file in lingua italiana
+# tutti gli elementi devono contenere un numero in stringa, seguito da uno spazio, seguito da una stringa, ed infine terminato dal cancelletto
+# le linee che iniziano con il cancelletto sono commenti
+# le linee vuote sono ignorate
+
+## ATTENZIONE PER LO SVILUPPO SONO INSERITI DEI "?" IN CASO NON SI SIA SICURI CON LA TRADUZIONE, ALLA FINE DEL PROGETTO È NECESSARIO RIMUOVERLI!
+
+1 null#
+
+# class names
+
+1900 barbaro#
+1901 guerriero#
+1902 guaritore#
+1903 ladro#
+1904 nomade# ?
+1905 chierico# ?
+1906 mercante#
+1907 mago#
+1908 incantarore# ?
+1909 giullare#
+
+
+# class descriptions
+
+10 Un abile combattente. Ciò che manca loro in termini di armatura, lo compensano con la forza e l'abilità nel combattimento.
+
+Difficoltà: Normale#
+
+11 Il soldato addestrato. Sono pesantemente corazzati e sono leader capaci.
+
+Difficoltà: Principiante#
+
+12 Un medico di talento. Sebbene siano scarsi combattenti, sono dotati di forniture mediche e di altre capacità curative.
+
+Difficoltà: Normale# ?
+
+13 Il malvivente professionista. Sono ladri abili e destri, anche se privi di potenza ed equipaggiamento.
+
+Difficoltà: Difficile# ?
+
+14 Viaggiatore incallito. Poco armato e poco abile nel combattimento, ma ben equipaggiato per i dungeon.
+
+Difficoltà: Normale#
+
+15 Stundenti della chiesa. Abbastanza ben equipaggiati e competenti sotto molti punti di vista, sono aventurieri a 360 gradi.
+
+Difficoltà: Principiante#
+
+16 Un mercante esperto. Sono esperti di commercio e abili nell'identificare i manufatti sconosciuti.
+
+Difficoltà: Difficile# ?
+
+17 Il saggio mago. Sebbene debole, è estremamente esperto nella magia.
+
+Difficoltà: Difficile# ?
+
+18 Un astuto incantarore. Meno abile magicamente del mago, ma più resistente e meglio equipaggiato.
+
+Difficoltà: Normale#
+
+19 Il jolly. I giullari sono dotati di un equipaggiamento molto ridotto, ma hanno comunque qualche asso manica.
+
+Difficoltà: Estrema#
+
+
+# appearance names
+
+20 guardia# ?
+21 northborn# ?
+22 marchiato col fuoco# ? EX firebrand
+23 purosangue#
+24 highwatch# ?
+25 fucina dell'oscurità# ? EX gloomforge
+26 pirosscindere# ? EX pyrebloom
+27 serpente di pietra? EX snakestone
+28 clan del vento? EX windclan
+29 sangue di guerra# ? EX warblood
+30 mugnaio# ? EX millbound
+31 gambo del sole# ? EX sunstalk
+32 argilla# ? EX claymount
+33 tempestoso# ? EX stormward
+34 crisi economica? EX tradefall
+35 nighthill# ?
+36 torre della baia# ? EX baytower
+37 whetsong# ?
+
+
+# appearance descriptions
+
+38 Il volto equilibrato di una guardia.#
+39 La carnagione chiara di un figlio del nord.# ?
+40 Il volto selvaggio di un marchiato dal fuoco.# ?
+41 Le solide qualità di un purosangue.# ?
+42 L'aspetto raffinato di un highwatch.# ?
+43 L'audacia di una fucina dell'oscurità.# ?
+44 La meticolosa cura di un fiore di pira.# ?
+45 Lo spirito feroce di un serpente di pietra.# ?
+46 L'atteggiamento fiero di un clan del vento.# ?
+47 La passione irrefrenabile del sangue di guerra.# ?
+48 La modestia conservatrice di un mugnaio.# ?
+49 La concentrazione di un gambo del sole.# ?
+50 L'aspetto pratico di un supporto in argilla.# ?
+51 Il profilo slanciato di un tempesta.# ?
+52 La sfacciataggine di una crisi economica.# ?
+53 L'audace presenza di un pesce di mare.# ?
+54 Lo stoicismo determinato di una baytower.# ?
+55 La naturale eleganza di una whetsong.# ?
+
+
+# credit titles
+56 Design principale & Programmazione#
+57 Audio#
+58 Programmazione#
+59 Arte#
+60 Arte Supplementare#
+61 Scrittura#
+62 Testing#
+63 Ringraziamenti Speciali#
+64 E naturalmente...#
+65 Tu, il giocatore#
+
+
+# legalese
+
+66 Barony is a product of Turning Wheel LLC#
+67 Copyright (c) 2018, all rights reserved.#
+68 For more information, please visit#
+69 http://www.baronygame.com/#
+
+
+# baron herx subtitles
+
+70 "In bocca al lupo, mortale."#
+71 "Fai del tuo meglio, umano."#
+72 "Beh, buona fortuna, umano."#
+73 "Hahahahaha!"#
+74 "Il mio minotauro è affamato!"#
+75 "I miei animali hanno fame di carne umana..."# ?
+76 "Il minotauro sta arrivando..."#
+77 "Hmm... un altro mortale alla mia porta..."#
+78 "Ahh, un altro si unisce alla mischia..."# ?
+79 "Hmm... qualcuno di nuovo..."#
+80 "È meglio che non indugi ancora a lungo, mortale."#
+81 "Che peccato se solo fossi qui quando lui arriva..."# ?
+82 "Faresti bene ad abbandonare presto questo luogo, mortale."#
+83 "Hmm... questo è ancora vivo"#
+84 "Hmm, quindi siete riusciti ad arrivare così lontani..."#
+85 "Cosa speri di ottenere quaggiù, mortale?"#
+86 "Non sai nulla del potere che ho trovati qui..."#
+87 "Affrontami se ne hai il coraggio, mortale. Non sopravviverai."#
+88 "Incontrami nel mio rifugio, mortale, e ti mostrerò il significato del dolore."
+89 "Accogli nel tuo destino, mortale!"#
+
+
+# monster names
+
+90 niente#
+91 umano#
+92 ratto#
+93 goblin#
+94 slime#
+95 troll#
+96 polpo#
+97 ragno#
+98 ghoul#
+99 scheletro#
+100 scorpione#
+101 imp#
+102 bugbear#
+103 gnomo#
+104 demone#
+105 succube#
+106 mimic#
+107 lich#
+108 minotauro#
+109 diavolo#
+110 negoziante#
+
+
+# monster names (plural)
+
+111 niente#
+112 umani#
+113 ratti#
+114 goblin#
+115 slime#
+116 troll#
+117 polpi#
+118 ragni#
+119 ghoul#
+120 scheletri#
+121 scorpioni#
+122 imp#
+123 bugbear#
+124 gnomi#
+125 demoni#
+126 succubi#
+127 mimic#
+128 lich#
+129 minotauri#
+130 diavoli#
+131 negozianti#
+
+
+## PER I SEGUENTI È NECESSARIO VERIFICARE IN GAME
+
+# injury types
+
+132 hits#
+133 hits#
+134 morsi# ?
+135 hits#
+136 ti fa male# ?   da comprendere il punto di vista in game
+137 ti colpisce# ?
+138 lotta con te#
+139 morsi# ?
+140 hits#
+141 hits#
+142 punto# ?
+143 graffio#?
+144 hits#
+145 colpito#
+146 ti sbrana#
+147 ti schiaffeggia#
+148 morsi# ?
+149 hits#
+150 ti schiaccia#
+151 ti schiaccia#
+152 hits#
+
+
+# server flags
+
+153 Cheats#
+154 Fuoco Amico#
+155 Minotauri#
+156 Fame#
+157 Trappole#
+
+
+# shopkeeper names
+
+158 Adrian#
+159 Bob#
+160 Carmack#
+161 Derek#
+162 Error#
+163 Felix#
+164 Geoff#
+165 Harold#
+166 Izchak#
+167 Jesse#
+168 Ken#
+169 Luke#
+170 Marty#
+171 Norian#
+172 Oliver#
+173 Peter#
+174 Quentin#
+175 Romero#
+176 Sidney#
+177 Tom#
+178 Ulf#
+179 Vern#
+180 Wallace#
+181 Xavier#
+182 Yoshi#
+183 Zeb#
+
+
+# shop names
+
+184 Armi & Armature#
+185 Negozio di cappelli#
+186 Gioielleria#
+187 Libreria#
+188 Negozio di pozioni#
+189 # ????
+190 gastronomia#
+191 Ferramenta#
+192 Forniture da caccia#
+193 Negozio Generale#
+
+
+# shopkeeper lines
+
+194 Saluti!#
+195 Ciao!#
+196 Buona giornata!#
+
+
+# shopkeeper sells item at an unfair price
+
+197 Hai ricevuto un buon 
+un buon prezzo per questo!#
+198 Scelta eccellente!#
+199 È stato un vero affare!#
+
+
+# shopkeeper sells item at a fair price
+
+200 È uno scambio equo.#
+201 Suppongo di potermi separare 
+da esso.#
+202 Va bene, ma non per
+un centesimo in meno!#
+
+
+# shopkeeper refuses a purchase
+
+203 Niente soldi, niente item!#
+204 Non lo venderò 
+per niente di inferiore.# ?
+205 Non hai abbastanza soldi!#
+
+
+# shopkeeper buys item at an unfair price
+
+206 Lo comprerò volentieri!#
+207 Lo comprerò da te!#
+208 Lo comprerò!#
+
+
+# shopkeeper buys item at a fair principale
+
+209 Suppongo che lo comprerò.#
+210 Credo di poterlo scambiare.#
+211 Lo comprerò da te.#
+
+
+# shopkeeper refuses to buy an item
+
+212 Non commercio con questa merce.#
+213 Non mi interessa.#
+214 No! Non ne ho bisogno.#
+
+
+# shopkeeper makes an offer to buy an item
+
+215 Lo comprerei per %dG.
+
+Accetti? (Clicca tasto destro
+dal inventario)#
+
+
+# shopkeeper chit-chat
+
+216 
