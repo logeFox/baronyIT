@@ -340,10 +340,283 @@ per niente di inferiore.# ?
 
 215 Lo comprerei per %dG.
 
-Accetti? (Clicca tasto destro
-dal inventario)#
+Affare fatto? (Tasto destro
+dal inventario per confermare)#
 
 
 # shopkeeper chit-chat
 
-216 
+216 Si dice che gli anelli del conflitto
+creano un'aura di tensione
+intorno a una persona.# ?
+
+
+# Arriva da zelda e mi sento in colpa a tradurlo in italiano
+
+217 Lampade a olio? Funi? Bombe? Li vuoi?
+Sono tuoi, amico mio, finché tu avrai
+abbastanza rubini!# ?
+
+218 Si dice che alcuni oggetti
+siano incantati con effetti magici
+speciali.#
+
+219 Gli slime possono esser trovati
+in due tonalità di colore. Si dice che
+quelli blu sono i più forti.#
+
+220 Si dice che gli oggetti maledetti
+spesso fanno l'opposto di ciò che erano
+destinati a fare.#
+
+221 I troll ti ignorano se ti tieni a
+distanza!#
+
+222 Le armi hanno diversi livelli
+d'efficacia. Il legno e il bronzo sono
+deboli, ma l'acciaio è molto forte.#
+
+223 Gli effetti delle pozioni si esauriscono
+con il tempo.#
+
+224 Fai attenzioni ai libri illustrati.
+Conoscevo qualcuno che ne ha toccato uno:
+la prossima cosa che seppe, era che si
+trovava tutto solo su di una piccola isola.# ?
+
+225 Le tue abilità miglioreranno man mano
+che le userai.#
+
+226 I goblin sono ottimi razziatori.
+Non lasciate mai oggetti potenti
+dove potrebberò trovarli!#
+
+227 Potrei sembrare debole, ma in realtà
+io sono un maestro delle arti mistiche.#
+
+228 Il cibo in scatola può rendere le mani
+unte. Usate un asciugamano per tenere
+le vostre mani pulite.# ?
+
+229 Puoi fasciare le ferite con gli
+asciugamani.# ?
+
+230 Hai fame? La carne di topo è un
+alimento base quaggiù.#
+
+231 Le punture di scorpione ti possono
+paralizzare. State in guardia.# ?
+
+232 Si dice che alle succubi piaccia
+cercare di rubare i vesti degli uomini.# ?
+
+233 Più il cibo è vecchio, più è probabile
+ammalarsi quando lo si mangia.#
+
+234 Gli specchi possono fare
+a volte, cose strane.#
+
+235 Prova a identiifcare gli oggetti
+prima di utilizzarli.#
+
+
+# skill names
+
+236 Tinkering# ?
+237 Furtività#
+238 Commercio# ?
+239 Esaminare#
+240 Nuotare#
+241 Comandare#
+242 Casting# ?
+243 Magia#
+244 Distanza# ?
+245 Abilità di spada# ?
+246 Abilità nelle mazze# ?
+247 Abilità nelle accette# ?
+248 Abilità nelle lance# ?
+249 Abilità negli scudi# ?
+
+
+# Steam lobby type
+
+250 Lobby privata#
+251 Lobby pubblica#
+252 Lobby solo per amici# ?
+
+
+# Left-click (entity spotting) messages
+
+253 Vedi un %s chiamato %s.#
+254 Vedi un %s.#
+255 Vedi una torce montata al muro.#
+256 Vedi una porta.#
+257 Vedi %s.#
+258 Vedi un pezzo d'oro.#
+259 Vedi %d pezzi d'oro.#
+260 Vedi un falò.#
+262 Vedi una fontana.#
+263 Vedi un lavabo.# ?
+264 Vedi una scala portare verso il basso.#
+265 Vedi una scala portare verso l'alto.#
+266 Vedi un baule.#
+267 Vedi una cancellata di ferro.#
+268 Vedi una trappola a spuntoni.# ?
+269 Vedi una leva.#
+270 Vedi un macigno.#
+271 Vedi una lapide.#
+272 Vedi un portale misterioso.#
+273 Vedi una sedia.#
+274 Vedi un tavolo.#
+
+
+# Ho dei dubbi a tradurre le frasi della console, ma ok
+
+# console command messages
+
+275 Solo il server può modificare le flag.#
+276 Flag del server aggiornate.#
+277 I Cheats sono disabilitati su questo server.#
+278 '%s' non è un oggetto!#
+279 Il Server ha espulso "kicked" il client %d (%s).#
+280 Fallito nella ricerca di un client con quel nome.#
+281 Solo il server ha potere per espellere "kick" un altro giocatore.#
+282 Devi essere in una partita multiplayer per espellere "kick" un altro giocatore!#
+283 Salvata la mappa nel file chiamato '%s'.#
+284 Solo il server può farlo.#
+285 Skip al prossimo livello...#
+286 Camera a %d, %d, %d
+ Direzione: %2.3f, %d#
+287 noclip sempre disabilitato in multiplayer.#
+288 noclip ON#
+289 noclip OFF#
+290 god mode sempre disabilitatà nel multiplayer#
+291 god mode ON#
+292 god mode OFF#
+293 buddha mode sempre disabilitatà nel multiplayer#
+294 buddha mode ON#
+295 buddha mode OFF#
+296 fuoco amico ON#
+297 fuoco amico OFF#
+298 uscita a: %d, %d#
+299 funziona solo in singleplayer.#
+300 numero delle entità nel livello: %d#
+301 Uccisi %d mostri.#
+302 Hai evocato un %s!# 
+303 Non c'è spazio per un %s!#
+304 Errore! Impossibile spawnare '%s'#
+305 Commando non riconosciuto: '%s'#
+
+
+# status bar
+
+306 HP#
+307 MP#
+
+
+# items and inventory
+
+308 Costo: %d MP#
+309 non identificato#
+310 maledetto#
+311 normale# ?
+312 benedetto#
+313 (%-5d peso)#
+314 (%-5d oro)#
+315 %+d ATTACCO#
+316 %+d ARMATURA#
+317 Esamina l'oggetto# ? non conosco la dinamica
+318 Identifica l'oggetto# ?
+319 Questo %s
+ è già stato identificato.#
+320 Identificato "%s".#
+321 Esaminando "%s"...#
+322 Incantesimi#
+323 Rifoderare# ?
+324 Brandisci# ?
+325 Rimuovi l'equipaggiamento#
+326 Equipaggia#
+327 Svestiti# ?
+328 Indossa#
+329 Bevi#
+330 Leggi#
+331 Indossa# ?
+1881 Ispeziona#
+332 Usa#
+333 Metti via#
+334 Prepara#
+335 Metti fuori# ?
+336 Accendi#
+337 Arm Trap# ?
+338 Mangia#
+339 Pronto#
+340 Esaminando:     #
+341 Esaminando:%2.0f%%#
+342 Libro degli incantesimi#
+343 Inventario#
+344 Negozio#
+345 Vendi#
+346 Rimuovi la maledizione da un oggetto#
+347 A questo oggetto %s
+ è già stata rimossa la maledizione.#
+348 Rimossa la maledizione a "%s".#
+
+
+# shop gui
+
+349 Armi#
+350  Armature#
+351 Gioielleria#
+352  Magia#
+353  Gemme#
+354 Commestibili#
+355  Generale#
+356 *#
+357 Oro:%7dG#
+358 Benvenuto al negozio di %s
+%s!#
+
+
+# character sheet
+
+359 Livello %d %s#
+360 Exp:%3d/100#
+361 Livello del dungeon: %d#
+1200 STR:          %2d -> #
+1201 DEX:          %2d -> #
+1202 CON:          %2d -> #
+1203 INT:          %2d -> #
+1204 PER:          %2d -> #
+1205 CHR:          %2d -> #
+
+
+# skill levels
+
+363               Nessuno#
+364               novizio#
+365                basico#
+366                 abile#
+367               esperto#
+368               maestro#
+369              leggenda#
+
+
+# rest of the character sheet
+
+370 Oro:%13d Oro#
+371 Armatura:%12d AC#
+372 Peso:%11d Wt.#
+
+
+# chest inventory
+
+373 Inventario del baule#
+374 Preso %d dal baule#
+
+
+# magic
+
+375 Mana insufficente!#
+376 Sei stato colpito da un'incantesimo!#
+377 Il tuo incantesimo compisce %s!#
+378 
