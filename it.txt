@@ -3,7 +3,7 @@
 # le linee che iniziano con il cancelletto sono commenti
 # le linee vuote sono ignorate
 
-## ATTENZIONE PER LO SVILUPPO SONO INSERITI DEI "?" IN CASO NON SI SIA SICURI CON LA TRADUZIONE, ALLA FINE DEL PROGETTO È NECESSARIO RIMUOVERLI!
+## ATTENZIONE PER LO SVILUPPO SONO INSERITI DEI "??" IN CASO NON SI SIA SICURI CON LA TRADUZIONE, ALLA FINE DEL PROGETTO È NECESSARIO RIMUOVERLI!
 
 1 null#
 
@@ -13,11 +13,11 @@
 1901 guerriero#
 1902 guaritore#
 1903 ladro#
-1904 nomade# ?
-1905 chierico# ?
+1904 nomade# ??
+1905 chierico# ??
 1906 mercante#
 1907 mago#
-1908 incantarore# ?
+1908 incantarore# ??
 1909 giullare#
 
 
@@ -33,11 +33,11 @@ Difficoltà: Principiante#
 
 12 Un medico di talento. Sebbene siano scarsi combattenti, sono dotati di forniture mediche e di altre capacità curative.
 
-Difficoltà: Normale# ?
+Difficoltà: Normale# ??
 
 13 Il malvivente professionista. Sono ladri abili e destri, anche se privi di potenza ed equipaggiamento.
 
-Difficoltà: Difficile# ?
+Difficoltà: Difficile# ??
 
 14 Viaggiatore incallito. Poco armato e poco abile nel combattimento, ma ben equipaggiato per i dungeon.
 
@@ -49,11 +49,11 @@ Difficoltà: Principiante#
 
 16 Un mercante esperto. Sono esperti di commercio e abili nell'identificare i manufatti sconosciuti.
 
-Difficoltà: Difficile# ?
+Difficoltà: Difficile# ??
 
 17 Il saggio mago. Sebbene debole, è estremamente esperto nella magia.
 
-Difficoltà: Difficile# ?
+Difficoltà: Difficile# ??
 
 18 Un astuto incantarore. Meno abile magicamente del mago, ma più resistente e meglio equipaggiato.
 
@@ -66,46 +66,46 @@ Difficoltà: Estrema#
 
 # appearance names
 
-20 guardia# ?
-21 northborn# ?
-22 marchiato col fuoco# ? EX firebrand
+20 guardia# ??
+21 northborn# ??
+22 marchiato col fuoco# ?? EX firebrand
 23 purosangue#
-24 highwatch# ?
-25 fucina dell'oscurità# ? EX gloomforge
-26 pirosscindere# ? EX pyrebloom
-27 serpente di pietra? EX snakestone
-28 clan del vento? EX windclan
-29 sangue di guerra# ? EX warblood
-30 mugnaio# ? EX millbound
-31 gambo del sole# ? EX sunstalk
-32 argilla# ? EX claymount
-33 tempestoso# ? EX stormward
-34 crisi economica? EX tradefall
-35 nighthill# ?
-36 torre della baia# ? EX baytower
-37 whetsong# ?
+24 highwatch# ??
+25 fucina dell'oscurità# ?? EX gloomforge
+26 pirosscindere# ?? EX pyrebloom
+27 serpente di pietra# ?? EX snakestone
+28 clan del vento# ?? EX windclan
+29 sangue di guerra# ?? EX warblood
+30 mugnaio# ?? EX millbound
+31 gambo del sole# ?? EX sunstalk
+32 argilla# ?? EX claymount
+33 tempestoso# ?? EX stormward
+34 crisi economica# ?? EX tradefall
+35 nighthill# ??
+36 torre della baia# ?? EX baytower
+37 whetsong# ??
 
 
 # appearance descriptions
 
 38 Il volto equilibrato di una guardia.#
-39 La carnagione chiara di un figlio del nord.# ?
-40 Il volto selvaggio di un marchiato dal fuoco.# ?
-41 Le solide qualità di un purosangue.# ?
-42 L'aspetto raffinato di un highwatch.# ?
-43 L'audacia di una fucina dell'oscurità.# ?
-44 La meticolosa cura di un fiore di pira.# ?
-45 Lo spirito feroce di un serpente di pietra.# ?
-46 L'atteggiamento fiero di un clan del vento.# ?
-47 La passione irrefrenabile del sangue di guerra.# ?
-48 La modestia conservatrice di un mugnaio.# ?
-49 La concentrazione di un gambo del sole.# ?
-50 L'aspetto pratico di un supporto in argilla.# ?
-51 Il profilo slanciato di un tempesta.# ?
-52 La sfacciataggine di una crisi economica.# ?
-53 L'audace presenza di un pesce di mare.# ?
-54 Lo stoicismo determinato di una baytower.# ?
-55 La naturale eleganza di una whetsong.# ?
+39 La carnagione chiara di un figlio del nord.# ??
+40 Il volto selvaggio di un marchiato dal fuoco.# ??
+41 Le solide qualità di un purosangue.# ??
+42 L'aspetto raffinato di un highwatch.# ??
+43 L'audacia di una fucina dell'oscurità.# ??
+44 La meticolosa cura di un fiore di pira.# ??
+45 Lo spirito feroce di un serpente di pietra.# ??
+46 L'atteggiamento fiero di un clan del vento.# ??
+47 La passione irrefrenabile del sangue di guerra.# ??
+48 La modestia conservatrice di un mugnaio.# ??
+49 La concentrazione di un gambo del sole.# ??
+50 L'aspetto pratico di un supporto in argilla.# ??
+51 Il profilo slanciato di un tempesta.# ??
+52 La sfacciataggine di una crisi economica.# ??
+53 L'audace presenza di un pesce di mare.# ??
+54 Lo stoicismo determinato di una baytower.# ??
+55 La naturale eleganza di una whetsong.# ??
 
 
 # credit titles
@@ -136,13 +136,13 @@ Difficoltà: Estrema#
 72 "Beh, buona fortuna, umano."#
 73 "Hahahahaha!"#
 74 "Il mio minotauro è affamato!"#
-75 "I miei animali hanno fame di carne umana..."# ?
+75 "I miei animali hanno fame di carne umana..."# ??
 76 "Il minotauro sta arrivando..."#
 77 "Hmm... un altro mortale alla mia porta..."#
-78 "Ahh, un altro si unisce alla mischia..."# ?
+78 "Ahh, un altro si unisce alla mischia..."# ??
 79 "Hmm... qualcuno di nuovo..."#
 80 "È meglio che non indugi ancora a lungo, mortale."#
-81 "Che peccato se solo fossi qui quando lui arriva..."# ?
+81 "Che peccato se solo fossi qui quando lui arriva..."# ??
 82 "Faresti bene ad abbandonare presto questo luogo, mortale."#
 83 "Hmm... questo è ancora vivo"#
 84 "Hmm, quindi siete riusciti ad arrivare così lontani..."#
@@ -211,19 +211,19 @@ Difficoltà: Estrema#
 133 hits#
 134 morsi# ?
 135 hits#
-136 ti fa male# ?   da comprendere il punto di vista in game
-137 ti colpisce# ?
+136 ti fa male# ??  da comprendere il punto di vista in game
+137 ti colpisce# ??
 138 lotta con te#
-139 morsi# ?
+139 morsi# ??
 140 hits#
 141 hits#
-142 punto# ?
-143 graffio#?
+142 punto# ??
+143 graffio# ??
 144 hits#
 145 colpito#
 146 ti sbrana#
 147 ti schiaffeggia#
-148 morsi# ?
+148 morsi# ??
 149 hits#
 150 ti schiaccia#
 151 ti schiaccia#
@@ -276,7 +276,7 @@ Difficoltà: Estrema#
 186 Gioielleria#
 187 Libreria#
 188 Negozio di pozioni#
-189 # ????
+189 # ??
 190 gastronomia#
 191 Ferramenta#
 192 Forniture da caccia#
@@ -311,7 +311,7 @@ un centesimo in meno!#
 
 203 Niente soldi, niente item!#
 204 Non lo venderò 
-per niente di inferiore.# ?
+per niente di inferiore.# ??
 205 Non hai abbastanza soldi!#
 
 
@@ -348,7 +348,7 @@ dal inventario per confermare)#
 
 216 Si dice che gli anelli del conflitto
 creano un'aura di tensione
-intorno a una persona.# ?
+intorno a una persona.# ??
 
 
 # Arriva da zelda e mi sento in colpa a tradurlo in italiano
@@ -382,7 +382,7 @@ con il tempo.#
 224 Fai attenzioni ai libri illustrati.
 Conoscevo qualcuno che ne ha toccato uno:
 la prossima cosa che seppe, era che si
-trovava tutto solo su di una piccola isola.# ?
+trovava tutto solo su di una piccola isola.# ??
 
 225 Le tue abilità miglioreranno man mano
 che le userai.#
@@ -396,19 +396,19 @@ io sono un maestro delle arti mistiche.#
 
 228 Il cibo in scatola può rendere le mani
 unte. Usate un asciugamano per tenere
-le vostre mani pulite.# ?
+le vostre mani pulite.# ??
 
 229 Puoi fasciare le ferite con gli
-asciugamani.# ?
+asciugamani.# ??
 
 230 Hai fame? La carne di topo è un
 alimento base quaggiù.#
 
 231 Le punture di scorpione ti possono
-paralizzare. State in guardia.# ?
+paralizzare. State in guardia.# ??
 
 232 Si dice che alle succubi piaccia
-cercare di rubare i vesti degli uomini.# ?
+cercare di rubare i vesti degli uomini.# ??
 
 233 Più il cibo è vecchio, più è probabile
 ammalarsi quando lo si mangia.#
@@ -422,27 +422,27 @@ prima di utilizzarli.#
 
 # skill names
 
-236 Tinkering# ?
+236 Tinkering# ??
 237 Furtività#
-238 Commercio# ?
+238 Commercio# ??
 239 Esaminare#
 240 Nuotare#
 241 Comandare#
-242 Casting# ?
+242 Casting# ??
 243 Magia#
-244 Distanza# ?
-245 Abilità di spada# ?
-246 Abilità nelle mazze# ?
-247 Abilità nelle accette# ?
-248 Abilità nelle lance# ?
-249 Abilità negli scudi# ?
+244 Distanza# ??
+245 Abilità di spada# ??
+246 Abilità nelle mazze# ??
+247 Abilità nelle accette# ??
+248 Abilità nelle lance# ??
+249 Abilità negli scudi# ??
 
 
 # Steam lobby type
 
 250 Lobby privata#
 251 Lobby pubblica#
-252 Lobby solo per amici# ?
+252 Lobby solo per amici# ??
 
 
 # Left-click (entity spotting) messages
@@ -519,35 +519,35 @@ prima di utilizzarli.#
 308 Costo: %d MP#
 309 non identificato#
 310 maledetto#
-311 normale# ?
+311 normale# ??
 312 benedetto#
 313 (%-5d peso)#
 314 (%-5d oro)#
 315 %+d ATTACCO#
 316 %+d ARMATURA#
-317 Esamina l'oggetto# ? non conosco la dinamica
-318 Identifica l'oggetto# ?
+317 Esamina l'oggetto# ?? non conosco la dinamica
+318 Identifica l'oggetto# ??
 319 Questo %s
  è già stato identificato.#
 320 Identificato "%s".#
 321 Esaminando "%s"...#
 322 Incantesimi#
-323 Rifoderare# ?
-324 Brandisci# ?
+323 Rifoderare# ??
+324 Brandisci# ??
 325 Rimuovi l'equipaggiamento#
 326 Equipaggia#
-327 Svestiti# ?
+327 Svestiti# ??
 328 Indossa#
 329 Bevi#
 330 Leggi#
-331 Indossa# ?
+331 Indossa# ??
 1881 Ispeziona#
 332 Usa#
 333 Metti via#
 334 Prepara#
-335 Metti fuori# ?
+335 Metti fuori# ??
 336 Accendi#
-337 Arm Trap# ?
+337 Arm Trap# ??
 338 Mangia#
 339 Pronto#
 340 Esaminando:     #
@@ -619,4 +619,292 @@ prima di utilizzarli.#
 375 Mana insufficente!#
 376 Sei stato colpito da un'incantesimo!#
 377 Il tuo incantesimo compisce %s!#
-378 
+378 Il tuo incantesimo colpisce il %s#
+379 Ma rimbalza!#
+380 Il tuo mantello è danneggiato!# ??
+381 Il tuo mantello si è distrutto!# ??
+382 Il tuo amuleto si è danneggiato!# ??
+383 Il tuo amuleto si è distrutto!# ??
+384 Il tuo scudo si è danneggiato!# ??
+385 Il tuo scudo si è distrutto!# ??
+386 Ma l'incantesimo viene respinto!#
+387 Il tuo incantesimo distrugge la porta!#
+388 Il tuo incantesimo distrugge la sedia!# ??
+389 Il tuo incantesimo distrugge il tavolo!# ??
+390 %s è improvvisamente confuso!#
+391 Il %s è improvvisamente confuso!# ??
+392 Sei improvvisamente confuso!#
+393 %s è stato rallentato!#
+394 Il %s è stato rallentato!# ??
+395 Sei improvvisamente rallentato!# ??
+396 All'improvviso ti addormenti di colpo!# ??
+397 %s si addormenta di colpo!# ??
+398 Il %s si addormenta di colpo!# ??
+399 Hai bloccato la porta!#
+400 Il tuo incantesimo blocca il baule!#
+401 Non si sa cosa abbia fatto...# ??
+402 Hai aperto la porta!#
+403 L'incantesimo apre il cancello!#
+404 L'incantesimo sblocca il baule!#
+405 Il tuo incantesimo distrugge il macigno!#
+406 Hai fatto arrabbiare gli dei di Sokoban!#
+407 Non puoi lanciare incantesimi mentre ti pari!#
+408 Incantesimo %s non sostenibile.#
+409 Hai sbagliato l'incantesimo e si dissolve!# ??
+410 Non puoi lanciare incantesimi mentre nuoti!#
+411 Wow! Ti senti meglio.# ??
+412 La mappa si materializza nella vostra mente!#
+413 Incomprensibile# ?? EX Uintelligible
+414 Missile magico#
+415 Forcebolt# ??
+416 Palla di fuoco#
+417 Fulmine# ??
+418 Luce# ??
+419 Scavare# ??
+420 Invisibilità#
+421 Identificare#
+422 Mappare# ??
+423 Curare# ??
+424 Confondere# ??
+425 Cure Ailment# ??
+426 Serraggio# ??
+427 Apertura#
+428 Dormire#
+429 Freddo#
+430 Lento#
+431 Levitazione#
+432 Teletrasporto#
+433 Missile magico#
+434 Rimuovere la maledizione#
+435 Mappatura magica#
+436 Dormire#
+437 Confondere#
+438 Cure extra#
+439 Conosci già l'incantesimo %s!#
+440 Quest'incantesimo è troppo difficile per te!#
+441 Hai imparato l'incantesimo %s.#
+442 Prepari l'incantesimo %s.#
+443 Ti senti meglio.#
+444 La tua forza vitale vacilla per un momento.#
+445 Senti la tua forza vitale diminuire!#
+
+
+# arrows
+
+446 Hai scagliato una freccia a %s!# ??
+447 Ma non si è nemmeno mosso!#
+448 Hai scagliato una freccia a %s!# ??
+449 Ma lei non ha battuto ciglio!#
+450 Ma lui non ha battuto ciglio!#
+451 Sei stato colpito da una freccia!#
+452 Ma è rimbalzata sulla tua armatura!#
+453 La freccia ti avvelena!#
+
+
+# traps and furniture
+
+454 Hai calpestato una trappola per orsi!#
+455 Sei stato colpito da un macigno!#
+456 Non sei abbastanza forte da sportare il macigno!#
+457 Estrai una torcia dal fuoco.#
+458 Il fuoco si è estinto.#
+459 Il baule si apre!#
+460 Sbatti il baule!#
+461 Qualcuno ha chiuso il baule!#
+462 Il baule è bloccato!# ? meglio chiuso a chiave?
+463 Metti %s nel baule.#
+464 Apri la porta.#
+465 Chiudi la porta.#
+466 La porta è bloccata!#
+467 La fontana è asciutta.#
+468 Ti bagni nell'acqua.# ?
+469 Hai evocato una succube!#
+470 Bevi dalla fontana.#
+471 L'acqua fresca ti rinfresca.#
+472 Questa è una fonte di acqua santa!#
+473 La fontana benedice il tuo equipaggiamento.#
+474 La fontana si prosciuga!#
+475 Questo cancello si è aperto altrove.#
+476 Non c'è tempo per sedersi.#
+477 Tiri un pugno al tavolo dalla frustrazione.#
+
+
+?????
+
+# Easter egg messages
+
+478 "NO WAY! stop fucking clones and minecraft for casual child gamer."#
+479 "icherednoy 'minecraft'"#
+480 "Sembra che sia stato realizzato in minecraft"#
+481 "Le texture sono molto simili a quelle di Minecraft."#
+482 "Sigh... un altra stronzata minecacata. Cazzo no."#
+
+
+# Gold
+
+483 Hai raccolto un pezzo d'oro.#
+484 Hai raccolto %d pezzi d'oro.#
+
+
+# headstone messages
+
+485 Sulla lapide è inciso:
+ "Qui giace Johnny Yeast
+  Perdonatemi se non mi alzo"#
+
+486 Sulla lapide è inciso:
+ "Qui giace mia moglie
+  Lasciatela sdraiata!
+  Ora è a riposo e lo sono anch'io."#
+
+487 Sulla lapide è inciso:
+ "Qui giace il corpo di Blake
+  Schiaccia l'acceleratore invece che il freno"#
+
+488 Sulla lapide è inciso:
+ "Qui giace Weird Ed
+  Ha ricevuto il suo pacco ma ora è morto"#
+
+489 Sulla lapide è inciso:
+ "Riposa in Pace"#
+
+490 Sulla lapide è inciso:
+ "R.I.P."#
+
+491 Sulla lapide è inciso:
+ "Sum quod eris"# ??
+
+492 Sulla lapide è inciso:
+ "Dal molo si tuffò Sir Jim
+  Poi scoprì di non saper nuotare"#
+
+493 Sulla lapide è inciso:
+ "Qui giace Mary Poppins
+  Un buco nell'ombrello si è rivelato la sua rovina"#
+
+494 Sulla lapide è inciso:
+ "Qui giace Herace P. Fetch
+  I goblin lo hanno preso alla fine"#
+
+495 Sulla lapide è inciso:
+ "Qui giace Guliano
+  È stato picchiato dal suo troll domestico"#
+
+496 Sulla lapide è inciso:
+ "Qui giace Ingrid
+  Spaventato da uno spaventoso scheletro"#
+
+497 Sulla lapide è inciso:
+ "Qui giace il signor Robin
+  È scappato coraggiosamente"#
+
+498 Sulla lapide è inciso:
+ "Qui giace Tom
+  Ha perso una partita alla Roulette Russa"#
+
+499 Sulla lapide è inciso:
+ "Qui giace Mitch
+  Ha incontrato la sua fine per mano di un lich"#
+
+500 Sulla lapide è inciso:
+ "Qui giace Proto Pegaso
+  Aveva una patata incastrata nel tubo di scappamento"#
+
+501 Questa lapide è vuota.#
+
+502 Hai disturbato un morto!#
+
+
+# item messages
+
+503 Questo %s può sbloccare oggetti.#
+
+504 Hai raccolto %s.#
+
+
+# ladder and portal messages
+
+505 Devi riunire il tuo gruppo per proseguire l'avventura.#
+506 Hai sceso la scala.#
+507 Tu e il tuo gruppo scendete la scala.#
+508 Non si può tornare indietro in quel modo.#
+509 Devi riunire il tuo gruppo per proseguire l'avventura.#
+510 Attraversi il portale.#
+511 Tu e il tuo gruppo attraversate il portale.#
+
+
+# herx darkness line
+
+512 Senti una voce nella tua testa...
+"Riuscirete a spezzare questa tecnica segreta dell'oscurità?"# ??
+
+
+# monster chat
+
+513 Il %s dice:#
+514 Il %s non risponde.#
+515 %s non risponde.#
+516 %s Devo prendere la tua testa!# ?
+517 %s Sei mio!
+518 %s In guardia!#
+519 %s Preparati!#
+520 %s I shall be with thee shortly!# ??
+521 %s Ora sono un po' impegnato.#
+522 %s Parlerò con te tra poco! ??
+523 %s Chiedo venia, sto parlando con qualcun'altro.#
+524 %s Disturbate qualcun altro!#
+525 %s Ti seguiro volentieri, %s!#
+526 %s Facci strada, %s!
+527 %s Ti seguirò, %s!
+528 %s Mostrami la strada, %s!
+529 Il %s ha deciso di seguirti!#
+530 %s Scusami.#
+531 %s Chiedo venia.#
+532 %s Buona giornata.#
+533 %s Chiedo scusa.#
+534 %s *grunt*#
+535 %s Chiedo venia, %s.#
+536 %s Scusa, %s. Seguirò altri.#
+
+# sharur lines
+
+537 Senti una voce nella tua testa...#
+538 "Lo sai?"
+"Si sente un'aria malvagia soffiare dalle trappole."
+"È vero!"#
+539 "Lo sai?"
+"Le fontane a volte benedicono il tuo equipaggiamento"
+"È vero!"#
+540 "Lo sai?"
+"I negozianti pagano niente per le gemme non identificate."
+"È vero!"#
+541 "Lo sai?"
+"Re Artù porta con sé la spada magica Dyrnwyn."
+"È vero!"#
+542 "Lo sai?"
+"Puoi disarmare le trappole lanciandoci oggetti." ??
+"È vero!"#
+543 "Lo sai?"
+"Han sparò per primo." ??
+"È vero!"#
+544 "Lo sai?"
+"Rainbow Dash è il miglior pony."
+"È vero!"#
+545 "Lo sai?"
+"Il veleno del ragno si esaurisce in dieci secondi."
+"È vero!"#
+546 "Lo sai?"
+"È possibile trovare anelli negli scarichi dei rubinetti." ??
+"È vero!"#
+547 "Lo sai?"
+"Il carburante per Jet non può fondere le travi d'acciaio."
+"È vero!"#
+548 "Lo sai?"
+"Gungnir non fallisce mai nel colpire." ??
+"È vero!"#
+549 "Lo sai?"
+"Khryselekatos scaglia frecce avvelenate."
+"È vero!"#
+550 "Lo sai?"
+"A Minetown si nasconde un segreto inquietante."
+"È vero!"#
