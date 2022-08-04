@@ -908,3 +908,226 @@ prima di utilizzarli.#
 550 "Lo sai?"
 "A Minetown si nasconde un segreto inquietante."
 "È vero!"#
+551 "Lo sai?"
+"Ci sono due vie nascoste per entrare nel sottomondo." ??
+"È vero!"#
+552 "Lo sai?"
+"I negozi generali comprano qualsiasi cosa."
+"È vero!"#
+553 "Lo sai?"
+"Alcune pozioni sono disponibili solo in determinati colori." ??
+"È vero!"#
+554 "Lo sai?"
+"Nelle rovine c'è una via segreta per l'inferno."
+"È vero!"#
+555 "Lo sai?"
+"Gungnir è nascosto nel labirinto del minotauro." ??
+"È vero!"#
+556 "Lo sai?"
+"Khryselekatos giace nascosto nel sottomondo." ??
+"È vero!"#
+557 "Lo sai?"
+"Funny Bones brandisce un'ascia chiamata Parashu."
+"È vero!"#
+558 "Lo sai?"
+"Il vincitore sei tu!"
+"È vero!"#
+559 "Lo sai?"
+"Non posso andarmene senza il mio amico Superfly!" ??
+"È vero!"#
+560 "Lo sai?"
+"Tutti i tostapane tostano i toast."
+"È vero!"#
+561 "Lo sai?"
+"Quella Mimiga non era Sue!" ??
+"È vero!"#
+562 "Lo sai?"
+"Risolvere Sokoban ti renderà ricco."
+"È vero!"#
+563 "Lo sai?"
+"Gnomi e troll sono migliori amici."
+"È vero!"#
+564 "Lo sai?"
+"I negozianti sono DAVVERO dei geni della magia."
+"È vero!"#
+565 "Lo sai?"
+"I troll preferirebbero essere lasciati in pace."
+"È vero!"#
+566 "Lo sai?"
+"I minotauri non sono del tutto invincibili."
+"È vero!"#
+567 "Lo sai?"
+"Non esiste una cura per la telepatia."
+"È vero!"#
+568 "Lo sai?"
+"I bauli rotti non forniscono molti oggetti." ??
+"È vero!"#
+569 "Lo sai?"
+"Non ci sono cucchiai." ??
+"È vero!"#
+
+# random player messages
+
+570 Identificato "%s".#
+571 Hai fallito nell'identificare "$s".#
+572 Tu crolli e muori...# ??
+573 Sei caduto nella lava bollente!#
+574 L'aqua estingue le fiamme!#
+575 Hai colpito %s. %d/%d HP | %d/%d MP#
+576 %s ti ha colpito.#
+577 Sei morto...#
+578 
+Verrai rianimato se il tuo gruppo
+sopravvive fino al livello successivo.#
+579 *hic*#
+
+# more forniture
+
+580 Il rubinetto non è più utilizzabile.
+Dovresti chiamare un idraulico!# ??
+581 Ehi, c'è un anello incastrato nello scarico.#
+582 Uno slime esce dal rubinetto! ??
+583 L'acqua del rubinetto ti rinfresca un po'.
+584 L'acqua è bollente!#
+585 Si sente il cigolio di una tubatura.
+ Il rubinetto si rompe!#
+586 Incappi in una trappola a spuntoni!#
+587 Sei stato colpito da un %s volante!#
+588 Prendi una torcia dal muro.#
+
+# entity messages
+
+590 All'improvviso prendi fuoco!#
+591 Il tuo incantesimo (invisibilità) viene interrotto!#
+592 Il tuo incantesimo (levitazione) viene interrotto!#
+593 Ti svegli.#
+594 Il veleno si attenua.#
+595 Ti senti un po' più calmo.#
+596 Ora puoi pensare più chiaramente.#
+597 Ti senti di nuovo sobrio.#
+598 Non sei riuscito a sostenere l'incantesimo (invisibilità).#
+599 Ehi! Puoi riesci a vederti di nuovo!#
+600 Torni a vedere.#
+601 I tuoi occhi lacrimano.#
+602 Le tue mani sembrano più chiare.#
+603 Il tuo volto non è più disordinato.#
+604 Torni alla tua velocità normale.#
+605 Tu puoi muovere di nuovo.#
+606 Non sei riuscito a sostenere l'incantesimo (levitazione).#
+607 Torni con i piedi a terra un altra volta.# ??
+608 Le voci nella tua testa si fermano.#
+609 Il tuo stomaco si assesta da solo.#
+610 Tuttavia, non ti senti ancora molto bene.#
+611 Ora ti senti affamato.#
+612 Ora hai molta fame!
+ Ti senti debole.#
+613 Ora stai morendo di fame!
+ Ti senti svenire.#
+614 Smetti di sanguinare.#
+615 La tua abilita nel %s è migliorata.#
+616 Adesso hai abilità di base nel %s#
+617 Sei diventato abile nel %s# ??
+618 Sei diventato un esperto nel %s# ??
+619 Sei diventato un maestro nel %s# ??
+620 Sei diventato una legenda nel %s# ??
+621 La tua forza vitale si trasforma in energia magica.#
+622 Sali di livello!#
+623 Ti senti forte!#
+624 Ti senti agile!#
+625 Ti senti robusto!# ??
+626 Ti senti un saggio!# ??
+627 Ti senti un osservatore!# ??
+628 Ti senti a proprio agio!# ??
+629 Ti senti un bo meglio.#
+630 Ti senti affamato.#
+631 Sei molto affamato!
+ Ti senti debole.#
+632 Stai morendo di fame!
+ Stai per svenire.#
+633 Stai sprecando un opportunità.# ??
+634 Improvvisamente ti senti molto nauseato...# ??
+635 Vomiti all'improvviso!#
+636 La tua arma ti sfugge dalle dita!#
+637 Il tuo %s sfarfalla nell'oscurità.#
+638 Il tuo %s si brucia.#
+639 Il tuo amuleto si illumina di un verde tenue.#
+640 Il veleno si attenua immediatamente!#
+641 Il veleno sembra essersi attenuato.#
+642 Perdi un po' di sangue.#
+643 Hai smesso di sanguinare.#
+644 Brucia! Brucia!#
+645 Il tuo %s brucia!# ??
+646 Il tuo %s brucia trasformandosi in cenere!#
+647 Le fiamme si spengono.#
+648 Il tuo amuleto ti sta soffocando!#
+649 Il tuo amuleto si restringe!#
+650 Ma sei fortunato! Si è rotto da solo.#
+
+# the extra period here is important, make sure to leave it:
+
+651 Sei morto....#
+
+
+# more entity messages
+
+652 Ma aspetta! Il tuo amuleto sta brillando!#
+653 Ma aspetta! Il tuo amuleto è caldo!#
+654 Sei stato riportato in vita e inizi a fluttuare nell'aria!# ??
+655 Tuttavia, il vostro amuleto si sbriciola in polvere.#
+656 Whoops, scusa. Immagino fosse difettoso.# ??
+657 Ci vediamo nella prossima vita.# ??
+658 Ti svegli all'improvviso!#
+659 Your staff loses some of its charge.# ??
+660 Your staff has completely burned out.# ??
+661 Il tuo %s è affaticato.# ??
+662 Il tuo %s si rompe finalmente.# ??
+663 Hai distrutto il macigno!#
+664 Il tuo piccone finalmente si rompe!# ??
+665 Il tuo piccone è danneggiato!#
+666 Hai colpito la porta!#
+667 Hai colpito il baule!#
+668 Hai colpito il tavolo!#
+669 Hai colpito la sedia!#
+670 La porta si apre di colpo!# ??
+671 Il baule è andato in frantumi!# ??
+672 Il tavolo si rompe in pezzi!# ??
+673 La sedia si rompe in pezzi!# ??
+674 porta#
+675 baule#
+676 tavolo#
+677 sedia#
+678 I tubi stridono.#
+679 La tua arma è danneggiata!#
+680 La tua arma si rompe all'impatto!#
+681 Il tuo %s è danneggiato!#
+682 Il tuo %s si rompe!#
+683 Dyrnwyn ti da fuoco!#
+684 Lo scorpione ti ha punto!#
+685 Il veleno è paralizzante!#
+686 Il ragno inietta il veleno nel tuo morso!#
+687 Il veleno scorre nelle tue vene!#
+688 Ehi! Quella succube ha rubato il tuo %s!#
+689 Colpisci in modo critico il %s!# ??
+690 Colpisci il %s!# ??
+691 Non si è nemmeno mosso!#
+692 Hai ucciso il %s!# ??
+693 Colpisci in modo critico %s!# ??
+694 Colpisci %s!#
+695 Non si è nemmeno mossa!# ??
+696 Non si è nemmeno mosso!# ??
+697 Hai ucciso %s!# ??
+698 Il %s %s!#
+699 %s %s!#
+700 Ma il loro colpo rimbalza!# ??
+701 Stai sanguinando!#
+702 Il %s sta sanguinando!#
+703 %s sta sanguinando!#
+704 Il tuo piccone finalmente si rompe!# ??
+705 Il tuo piccone è danneggiato!#
+706 Questo muro è troppo duro da rompere.#
+707 Ti senti stordito, ma ti passa.#
+708 Ti senti disorientato per un momento.#
+
+# general game messages
+
+709
