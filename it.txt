@@ -1130,4 +1130,218 @@ Dovresti chiamare un idraulico!# ??
 
 # general game messages
 
-709
+709 Caricamento...#
+710 Benvenuto nel dungeon livello %d.# ??
+711 Benvenuto nel %s.#
+712 Senti il rumore dei picconi che colpiscono la roccia.# ??
+713 Senti il lieve rumore di strade trafficate.# ??
+714 Senti il suono di un canto in lontananza.# ??
+715 Senti il vento ululare in lontananza.#
+716 Senti il lieve rumore dei macigni che rotolano.#
+717 Senti il lontano ruggito di un minotauro affamato.#
+718 Senti un mistico canto in lontananza.# ??
+719 Senti grida di angoscia in lontananza.#
+720 %s ti segue nel prossimo livello.#
+721 Il tuo amico %s ti segue nel prossimo livello.#
+722 %s ti dice addio!# ??
+723 Il tuo %s ti dice addio!# ??
+724 Ripristinata la connessione del server al client %d (%s).
+ Auto-kick cancellato.# ??
+725 Il client %d (%s) non risponde al server.
+ Auto-kick in 15 secondi...# ??
+726 Connessione del server al client %d (%s) persa.
+ Kick dal gioco.# ??
+727 Nello zaino non c'è più spazio per una
+ %s!
+728 Connessione al server ristabilità.#
+ Auto disconnessione cancellata.#
+729 Il server non risponde.
+ Auto disconnessione in 15 secondi...#
+730 Connessione al server persa.
+ Disconnessione.#
+731
+Connessione al server persa.
+
+Premi 'Okay' per tornare al menu principale.#
+732 Okay#
+733 Personaggio random#
+734 Benvenuto su Barony, %s.#
+735 Premi <%s> per visualizzare il tuo inventario.#
+736 Premi <%s> per usare gli oggetti.
+# ??
+737 Sei entrato in un dungeon.#
+738 Perfavore non piratate questo gioco!
+
+Il nostro lavoro vive e muore attraverso il supporto di
+giocatori come voi.
+
+Grazie!#
+739 Dici: #
+740 Sei morto#
+
+
+# init messages
+
+741 Caricamento degli sprites di gioco...#
+742 Caricamento dei modelli...#
+743 Caricamento dei tiles...# ??
+744 Caricamento dei suoni...#
+745 caricamento dei modelli... (%d/%d)#
+746 Caricamento dei limb file...# ??
+747 Caricamento degli oggetti...#
+748 Caricamento delle musiche...#
+749 Caricamento dell'interfaccia...#
+
+
+# item usage messages
+
+750 Non puoi berlo. Stai soffocando!#
+751 Stai ancora vomitando il tuo ultimo pasto!#
+752 Ha il sapore dell'acqua.# ??
+753 Ha il sapore dell'acqua fresca.
+ È davvero molto rinfrescante!#
+755 Ti senti sprofondare.#
+756 Non puoi mangiarlo. Stai soffocando!#
+757 Stai ancora vomitando il tuo ultimo pasto!#
+758 Wow, che emozione!# ??
+759 Ti senti abbastanza bene!#
+760 Ha il sapore del succo di frutta.#
+761 Yecch! Sa di veleno.#
+762 Ti senti veramente confuso!#
+763 Wow! Ti senti rigenerato.# ??
+764 Consumi una lattina di
+ %s.#
+765 Non vedi più niente!#
+766 Immprovvisamente non puoi più vederti!#
+767 Inizi a fluttuare nell'aria!#
+768 Immprovvisamente ti senti più veloce!#
+769 Torni alla velocità normale.#
+770 Argh! Questa roba brucia!#
+771 Augh! Non puoi muoverti!#
+772 Ha il sapore di medicina.#
+773 Ti senti meglio.#
+774 Senti un energia arcana scorrere dentro di te.#
+775 Non puoi leggere la pergamena quando sei cieco.#
+
+
+# mail
+
+776 Questa è una missiva:
+ "Questo è Moe. Mi piaci Maggie...
+  cosi tanto... che voglio...
+  mangiarti... per cena."#
+
+780 Questa è una missiva:
+ "Aiutatemi.
+  Ti sto aspettando dentro"#
+781   Lord Jabu Jabu è un vente.
+    --Ruto.
+  PS: Non dirlo a mio padre!"# ??
+
+786 Questa è una missiva:
+ "Raddoppia la quantità di rame estratto dalle miniere.
+  Gli gnomi pageranno un extra per qualsiasi quantità
+  superiore alla norma."# ??
+
+790 Questa è una missiva:
+ 
+ "Doppio, doppio lavoro e difficoltà;
+  Il fuoco brucia, e il calderone ribolle."# ??
+
+793 Questo è solo un avvertimento:
+
+ "%s è %s ha
+  i migliori articoli di tutto il regno!"# ??
+
+796 Questa è una vecchia nota:
+
+ "Ora giacerò qui, al buio,
+  aspettando la morte."# ??
+
+799 Questa è una vecchia nota:
+ 
+ "Il Dopefish vive!"# ??
+
+801 Questa è una vecchia nota:
+ 
+ "Ioo wurst troll evurr
+  nessun amico paga brijjj tole# ??
+802   io nonn sono spaeventato abbstnz
+  ioo sonoo ubriac e uccid vend
+  troll ubriac"# ??
+
+807 Questa è una missiva:
+ "La nostra spedizione nel Bastione del Diavolo è
+  fallita dopo un esteso incontro con gli
+  abitanti del doungeon."# ??
+
+811 Questa è una nota scritta a mano:
+ "Dieci passi a nord-est dall'albero di mezzana;# ??
+812   27 passi verso la stiva;
+  E 5 passi verso destra;
+  Scava il punto contrassegnato con un 'X'"#
+
+816 Questa è una missiva:
+
+ "Un cavallo, un cavallo! Il mio regno per un cavallo!"#
+
+817 Questa è una nota scritta a mano:
+ 
+ "Va bene uomini, muoviamoci!"# ??
+
+818 Questa è una missiva:
+ "È tradizione parlare con il "noi" reale,
+  e usare TANTO VOLUME QUANDO SI PARLA DEI NOSTRI
+  ARGOMENTI!!!"# ??
+
+822 Questa è una missiva:
+
+ "nuota nuota affamato"# ??
+
+824 Questa è una nota scritta a mano:
+ 
+ "Ci sono pugnali nei sorrisi degli uomini."# ??
+
+826 Questa è una nota scritta a mano:
+ 
+ "Questo è un segreto per tutti."#
+
+828 Questa è una nota scritta a mano:
+
+ "DIETRO DI TE!"#
+
+830 Questa è una missiva:
+ "Di tutte le parole dei topi e degli uomini,
+  le più tristi sono,
+  'Avrebbe potuto essere.'"# ??
+
+834 Questa nota è macchiata di sangue:
+
+ "Si, Avatar, cerca una via per casa!"# ??
+
+836 Questa missiva è coperta di briciole:
+
+ "Bollisci 'em, macina 'em, metti 'em in una zuppa!"# ??
+
+837 Questa nota è scritta a mano:
+
+ "Si dice che la vita sia sprecata per i vivi."#
+
+840 Questa nota è scarabocchiata:
+
+ "Queste ciambelle sono fantastiche! Quelle ripiene di gelatina sono le mie
+  preferite! Non c'è niente di meglio di una ciambella ripiena di gelatina."#
+
+843 Questo biglietto è scarabocchiato:
+
+ "Ehi, lo so! Userò la mia fidata padella
+  per friggre... Come una padella per !"# ??
+
+846 Questa è una missiva:
+
+ "Vi prego ignorare la lettera precedente."#
+
+# Probabilmente era meglio "In questa missiva:"
+
+# scrolls
+
