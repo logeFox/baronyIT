@@ -1345,3 +1345,179 @@ Grazie!#
 
 # scrolls
 
+848 Non appena leggi la pergamena, questa scompare.#
+849 Questa è una pergamena dell'identificazione!#
+850 Ma non hai oggetti non identificati...#
+851 Un fascio di luce ti circonda!#
+852 La pergamena è vuota.#
+853 La tua mano si scalda per un attimo.#
+854 La tua arma si illumina di nero.# ??
+855 La tua arma si illumina di blu.# ??
+856 La tua arma si illumina violentemente di blu.# ??
+857 La tua pelle si scalda per un momento.#
+858 Il tuo %s si illumina di nero.#
+859 Il tuo %s si illumina di blu.#
+860 Il tuo %s si illumina violentemente di blu.#
+861 Senti come se qualcuno ti stesse aiutando.#
+862 La pergamena fuma e si sbriciola in cenere!#
+864 La pergamena esplode in una torre di fiamme!#
+865 Un banchetto ti appare improvvisamente davanti!# ??
+866 Il tuo stomaco brontola, ma ti passa.# ??
+867 La tua sacca del cibo sembra più leggera!# ??
+868 Una mappa si materializza nella vostra mente!#
+869 Huh? Cosa? Dove sono?#
+870 Avverti una sensazione di formicolio, ma passa.#
+871 Il tuo %s vibra.#
+872 Il tuo %s sembra migliore!# ??
+873 La pelle ti prude per un attimo.# ??
+874 Il tuo %s vibra.#
+875 Il tuo %s si rompe improvvisamente.#
+876 Ti senti disorientato per un momento.#
+877 Evochi un %s arrabbiato!# ??
+878 Evochi alcuni %s arrabbiati!# ??
+879 Evoch un %s amichevole!# ??
+880  "Vi servirò, mio signore."# ??
+881 Evochi alcuni %s amichevoli!# ??
+882  "Vi serviremo, nostro signore."# ??
+
+
+# more items
+
+883 Ti pulisci con un asciugamano.#
+884 Leghi l'asciugamano intorno alla ferita.#
+885 Smetti di sanguinare.#
+886 Puoi aprire le lattine quando hai con te l'apriscatole.# ??
+887 Whoops!#
+888 Lo specchio ti sfugge dalle mani.
+ Si frantuma in un milione di pezzi!
+889 Ti guardi allo specchio...#
+890 All'improvviso vieni stato sbalzato via!# ??
+891 Assomigli ad un mostro!
+ Lo specchio si frantuma in un milione di pezzi!#
+892 Per un po' ti dimentichi di essere cieco.# ??
+893 Non vedi nessuno riflesso nello spechio.#
+894 'eyyy, ragazzo! *hic*#
+895 'eyyy, ragazza! *hic*#
+896 Chi è QUESTO?#
+897 Sei pallido!#
+898 Hai un aspetto piuttosto strano.# ??
+899 C'è qualcosa su tutta la tua faccia!# ??
+900 Sembri malnutrito.#
+901 Sembra che tu abbia un certo languorino.#
+902 Sei brutto come sempre.#
+903 Sei bello come sempre.#
+904 Sei bellissimo come sempre!#
+905 La trappola per orsi si rompe immprovvisamente!#
+906 Hai sistemato la trappola per orsi.#
+907 Consumi %s.#
+908 Blecch! Cibo marcio!#
+909 La torta ti arriva in faccia!
+ *SPLAT*#
+910 La tua faccia è coperta di crema!#
+911 Mmm, gustoso!#
+912 Sei ancora affamato.#
+913 Non sei ancora sazio.#
+914 Questo %s ha fatto centro!# ??
+915 Oof. Ora sei davvero pieno.#
+916 Ti senti male per aver mangiato troppo.#
+917 URP! Troppo cibo!#
+
+# tinned food
+
+918 purè#
+919 candito# ??
+920 soffritto# ??
+921 fritto misto# ??
+922 stagionato# ??
+923 arrostito# ??
+924 fritto# ??
+925 macinato# ??
+926 arrosto# ??
+927 essiccato# ??
+928 fatto in casa# ??
+929 bollito# ??
+930 cotto al forno# ??
+931 affumicato# ??
+932 in salamoia# ??
+933 patate fritte francesi# ??
+934  geco# ??
+935  anguilla# ??
+936  prosciutto#
+937  carne#
+938  bacon# ?? pancetta?
+939  tacchino#
+940  pollo#
+941  salmone#
+942  trota#
+943  capra#
+944  agnello#
+945  serpente#
+946  calamaro#
+947  granchio#
+948  quaglia#
+949  cavallo#
+950  con cipolle#
+951  in salsa#
+952  con fagioli#
+953  con mais#
+954  con carote#
+955  con gnocchi#
+956  con radicchio#
+957  con piselli#
+958  col sugo# ??
+959  con i broccoli#
+960  con le rape#
+961  con barbabietole#
+962  con patate#
+963  con riso#
+964  con il sedano#
+965  con gli spinaci#
+966 L'unto ti rende le dita scivolose.#
+
+
+# yet more items
+
+967 All'improvviso ti senti piuttosto virile!#
+968 All'improvviso ti senti piuttosto femminile!#
+969 L'amuleto si disintegra!#
+970 Non puoi leggere il libro se sei cieco!#
+971 Il libro degli incantesimi si riduce improvvisamente in cenere!#
+972 Ti dimentichi di un tuo incantesimo!#
+973 Per un momento ti senti un po' confuso.#
+
+
+# potion colors
+
+974 blu#
+975 giallo#
+976 marrone#
+977 arancione#
+978 rosso#
+979 verde#
+980 viola#
+981 bianco#
+
+
+# item quality strings
+
+# non capisco il contesto
+
+982 un %+2d rotto # ??
+983 un decrepito %+2d # ??
+984 consumanto %+2d # ??
+985 un servibile %+2d # ??
+986 un eccellente %+2d # ??
+987 un distrutto %+2d # ??
+988 un %+2d incrinato # ??
+989 un rozzo %+2d # ??
+990 un %+2d difettoso # ??
+991 un impeccabile %+2d # ??
+992 un %s %+2d evaporato # ??
+993 un nuvoloso %s %+2d # ??
+994 un vortice %s %+2d # ??
+995 un semplice %s %+2d # ??
+996 una spumeggiante %s %+2d # ??
+997 un tritato %+2d # ??
+998 lacerato %+2d # ??
+999 un %+2d sbiadito # ??
+1000 un %+2d marcato # ??
