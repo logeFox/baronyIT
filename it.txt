@@ -1521,3 +1521,123 @@ Grazie!#
 998 lacerato %+2d # ??
 999 un %+2d sbiadito # ??
 1000 un %+2d marcato # ??
+1001 un nuovo %+2d # ??
+1002 un %+2d marcio # ??
+1003 un %+2d ammuffito # ??
+1004 un %+2d invecchiato # ??
+1005 una %+2d leggermente invecchiata # ??
+1006 un fresco %+2d # ??
+1007 copia di "%s"# ??
+1008 %d rotto %+2d # ??
+1009 %d decrepito %+2d # ??
+1010 %d indossato %+2d # ??
+1011 %d servibile %+2d # ??
+1012 %d eccellente %+2d # ??
+1013 %d distrutto %+2d # ??
+1014 %d crepato %+2d # ??
+1015 %d approssimativo %+2d # ??
+1016 %d difettoso %+2d # ??
+1017 %d impeccabile %+2d # ??
+1018 %d evaporato %s %+2d # ??
+1019 %d nuvoloso %s %+2d # ??
+1020 %d vorticoso %s %+2d # ??
+1021 %d normale %s %+2d # ??
+1022 %d spumeggiante %s %+2d # ??
+1023 %d triturato %+2d# ??
+1024 %d strappato %+2d # ??
+1025 %d sbiadito %+2d # ??
+1026 %d segnato %+2d # ??
+1027 %d nuovo di zecca %+2d # ??
+1028 %d marcio %+2d # ??
+1029 %d ammuffita %+2d # ??
+1030 %d invecchiato %+2d # ??
+1031 %d leggermente invecchiato %+2d # ??
+1032 %d fresco %+2d # ??
+1033 %d copie di "%s" # ??
+1034 un rotto # ??
+1035 un decrepito # ??
+1036 un usurato # ??
+1037 un servitore # ??
+1038 un eccellente # ??
+1039 un distrutto # ??
+1040 un crepato # ??
+1041 un'approssimativa # ??
+1042 un'imperfezione # ??
+1043 un'impeccabile # ??
+1044 un %s evaporato # ??
+1045 un %s nuvoloso # ??
+1046 un %s vorticoso # ??
+1047 un semplice %s # ??
+1048 una spumeggiante %s # ??
+1049 un triturato # ??
+1050 un lacerato # ??
+1051 un'immagine sbiadita # ??
+1052 un marcato # ??
+1053 un nuovissimo # ??
+1054 un marcio # ??
+1055 un ammuffito # ??
+1056 un vecchio # ??
+1057 invecchiato leggermente # ??
+1058 un fresco # ??
+1059 %s etichettato %s# ??
+1060 %d rotto # ??
+1061 %d decrepito # ??
+1062 %d consumato # ??
+1063 %d utilizzabile # ??
+1064 %d eccellente # ??
+1065 %d distrutto # ??
+1066 %d crepato # ??
+1067 %d grezzo # ??
+1068 %d difettoso # ??
+1069 %d impeccabile # ??
+1070 %d evaporato %s # ??
+1071 %d nuvoloso %s # ??
+1072 %d vorticoso %s # ??
+1073 %d semplice %s # ??
+1074 %d effervescente %s # ??
+1075 %d stracciato # ??
+1076 %d strappato # ??
+1077 %d scolorito # ??
+1078 %d marchiato # ??
+1079 %d nuovo di zecca # ??
+1080 %d marcio # ??
+1081 %d ammuffito # ??
+1082 %d leggermente consumato # ??
+1083 %d fresco # ??
+1084 %d %s etichettato %s# ??
+1085 %d copie di "%s" # ??
+
+
+# more item messages
+
+1087 Non puoi. È maledetto!#
+1088 Gettato %s.#
+1089 Non puoi rimuovere il %s.
+ È maledetto!#
+1090 Equipaggiato %s.#
+1091 Rimosso l'equipaggiamento %s.#
+1092 Questo %s è inutile!#
+1093 Non puoi aprire la lattina senza un apriscatole.#
+1094 Indossi l'amuleto.#
+1095 L'amuleto si restringe improvvisamente!
+1096 "Ciao! Sono Sharur, la mazza parlante!"#
+
+
+# lockpicks and keys
+
+1097 Sblocchi il baule.#
+1098 Chiudi a chiave il baule.#
+1099 Sblocchi la porta.#
+1100 Chiudi a chiave la porta.#
+1101 Questo %s può sbloccare oggetti.#
+1102 Non sei riuscito a sbloccare il baule.#
+1103 Il tuo grimaldello è danneggiato.#
+1104 Il tuo grimaldello è rotto.#
+1105 Questo baule è già stato sbloccato.#
+1106 Non sei riuscito a sbloccare la porta.#
+1107 Questa porta è già aperta.#
+
+
+# random stuff
+
+1108 
