@@ -1640,4 +1640,237 @@ Grazie!#
 
 # random stuff
 
-1108 
+1108 Le grotte sono ricolme di un oscurità innaturale.#
+1109 Sopravvivi grazie alla perseveranza del tuo gruppo.#
+1110 Tiri la leva.#
+1111 I flag del server sono stati aggiornati.#
+1112 Corri, mortale!
+ Il Baphomet muore, ma i suoi servitori rimangono.
+ Ti infondiamo il nostro potere!#
+1113 ATTENZIONE!
+ Hai liberato il Minotauro!#
+1114 La Brigata ZAP è arrivata!
+ "Non temere %s. Staremo in guardia per il minotauro."#
+1115 ATTENZIONE!
+ Il Minotauro è arrivato!#
+1116 Senti una voce nella tua testa...#
+1117 tempo ? %4d ms#
+1118 %s ha messo in pausa il gioco.#
+1119 %s ha ripreso il gioco.#
+1120 %s è uscito dalla partita.#
+1121 Autosalvataggio...#
+1122 Hai iniziato a commerciare con %s.#
+1123 Hai acquistato %s per %dG.#
+1124 Non puoi vendere %s.
+ È maledetto!#
+1125 Hai venduto %s per %dG.#
+
+# some window and button text
+
+1126
+Il server remoto si è spento.
+
+Premi 'Ok' per tornare al menu principale.# ??
+1127
+Sei stato espulso dal server.
+
+Premi 'Ok' per tornare al menu principale.# ??
+1128
+     Sei sicuro
+       di voler uscire?# ??
+1129
+            Sei sicuro
+         di voler terminare la partita?
+
+       Poiché sei morto, il tuo
+       file di salvataggio verrà cancellato.# ??
+1130
+         Sei sicuro che to voglia
+          tornare al desktop?
+
+     I progressi sono stati salvati all'inizio del
+       all'inizio del livello corrente.# ??
+1131 Richiesta la lista delle lobby...# ??
+1133 Sei morto. Gameover.
+
+#
+1134 Il tuo equipaggiamento è stato identificato.
+#
+1135 Score totale: #
+1136 Congratulazioni!
+Hai raggiunto punteggi più alti.
+
+# ??
+1137
+
+
+
+#
+1138     Riavvia la partita   #
+1139 Torna al menu principale#
+1140 Sei morto.
+#
+1141 Verrai resuscitato, ciò nonostante, se il tuo
+gruppo sopravviverà fino al prossimo livello.
+
+# ??
+1142 Poiché il resto del tuo gruppo è morto,
+l'host deve creare una nuova partita o riavviare quella in corso per continuare.#
+1143 Punteggio totale: #
+1144    Ok   #
+
+
+# death tips
+
+1145
+Fai attenzione a tutti gli oggetti non identificati. Potrebbero
+danneggiarti anziché aiutarti.#
+1146
+Non attaccare mai i nemici quando sono deboli. Potresti essere
+facilmente sopraffatto.#
+1147
+Usa l'oscurità per nasconderti dai nemici.#
+1148
+I ratti sono una buona fonte di cibo all'inizio.#
+1149
+Non scoraggiarti. Impara dai tuoi
+errori e alla fine avrai successo.#
+1150
+Tieni premuto il tasto sinistro del mouse per
+tirare un colpo critico.#
+1151
+Solleva il tuo scudo per ottenere un grande incremento difensivo.#
+1152
+Utilizza la tua minimappa per navigare nei
+i labirinti insidiosi del dungeon.#
+1153
+Shift + click sulla hotbar per rimuovere
+instantaneamente un oggetto.# ??
+1154
+L'abilità del tuo personaggio con un'arma
+ha un grande effetto sulla sua efficacia.# ??
+1155
+Esercita le tue abilità per aumentare il loro livello.#
+1156
+Il Barone Herx ama parlare del suo minotauro
+quando è nelle vicinanze.#
+1157
+Lo senti il rumore di un macigno rotolare in
+lontananza? CORRI!#
+1158
+Le pozioni possono essere lanciate contro i nemici
+con effetti variabili.#
+1159
+Sii inventivo. Ogni oggetto ha un suo utilizzo.#
+
+
+# more random text
+
+1160  ti colpisce.#
+1161 Esamina.# ??
+1162 Gettare# ??
+1300 Hai disarmato la trappola per orsi.#
+1301 Hai interroto l'incantesimo!#
+1302 %s dice:#
+
+
+# main menu
+
+1303 Gioca#
+1304 Introduzione#
+1305 Statistiche#
+1306 Impostazioni#
+1307 Crediti#
+1308 Esci#
+1309 Riprendi il gioco# ??
+1310 Finisci il gioco# ??
+1311 Disconnettiti# ??
+1312 Riavvia il gioco# ??
+1313 Salva ed esci#
+
+1314 Si#
+1315 No#
+1316 Annulla#
+1317 Conferma#
+
+# character creation
+
+1318 Creazione del personaggio#
+1319 Sesso:#
+1320 Crea un personaggio %s.# ??
+1321 maschio#
+1322 femmina#
+1323 Classe:#
+1324 Aspetto:#
+1325 Nome:#
+1326 Inserisci il nome del tuo personaggio.#
+1327 Modalità di gioco:# ??
+1328 Singolo#
+1329 Avvia una partita in singolo.# ??
+1330 host multiplayer# ??
+1331 Ospita una partita multiplayer# ??
+1332 partecipa al multiplayer#
+1333 Partecipa ad una partita multiplayer# ??
+
+# lobby browser
+
+1334 Browser della lobby# ??
+1335 Flag dei server:# ??
+1336
+None#
+1337 Nessuna lobby trovata.#
+
+# settings window
+
+1338 Risoluzione#
+1339 Opzioni Extra#
+1340 smooth lighting# ??
+1341 fullscreen#
+1342 shaking# ??
+1343 bobbing# ??
+1344 sangue#
+1345 modalità per il daltonismo#
+1346 Campo visivo (FOV)#
+1347 Gamma#
+
+1348 Volume generale#
+1349 Volume musica#
+
+1350 Clicca per effettuare ri-assegnarli. ESC annulla.# ??
+1351 Muoviti avanti#
+1352 Muoviti a sinistra#
+1353 Muoviti indietro#
+1354 Muoviti a destra#
+1355 Girati a sinistra#
+1356 Girati a destra#
+1357 Guarda in alto#
+1358 Guarda in basso#
+1359 Chat#
+1360 Console dei comandi#
+1361 Status dei personaggi#
+1362 Lista degli incantesimi#
+1363 Lancia un incantesimo#
+1364 Parata / Furtivo#
+
+1365 Sensibilità del mouse#
+1366 Inverti in mouse#
+1367 mouse scorrevole# ??
+
+1368 I seguenti pulsanti del mouse non possono essere
+ri-assegnati:# ??
+
+1369 Tasto sinistro del mouse:
+ispeziona l'oggetto, trascina l'oggetto, attacca#
+
+1370 Tasto destro del mouse:
+una oggetto
+
+1371 Opzioni varie#
+1372 nascondi indirizzo IP#
+1373 disabilità HUD#
+1374 aggiungi gli oggetti nuovi alla hotbar#
+
+
+# multiplayer windows
+
+1375 
