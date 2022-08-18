@@ -1873,4 +1873,399 @@ una oggetto
 
 # multiplayer windows
 
-1375 
+1375 Flag di game# ??
+
+1376
+***   %s ha lasciato la partita.   ***
+# ??
+
+1377
+Connessione Rifiutata:
+#
+
+1378 Il server è già pieno.#
+1379 Le versioni del gioco non combaciono.# ??
+1380 Il server non sta eseguendo una partita salvata.# ??
+1381 Il server sta eseguendo una partita salvata.# ??
+1382 Il salvataggio del client non corrisponde a quello del server.#
+1383 Il seed del client non corrisponde al seed del server.# ??
+1384 Bad response dal server.# ??
+
+1385
+In attesa che il server avvii la partita.
+Connesso all'indirizzo IP: #
+
+1386
+In attesa che l'host avvii la partita.
+#
+
+1387
+
+Elenco giocatori:
+#
+
+1388
+***   %s è entrato nella partita.   ***
+# ??
+
+
+# highscore window
+
+1389 Non hai ancora registrato nessun punteggio!# ??
+1390 Punteggio in Solo#
+1391 Lunga vita# ??
+1392 Il Trionfante!# ??
+1393 L'eterno!# ??
+1394 Riposa in pace# ??
+1395 il %s.# ??
+
+1396 Esperienza:    %d/100#
+1397 Oro totale:    %dG#
+1398 STR: %2d (%2d)#
+1399 DEX: %2d (%2d)#
+1400 CON: %2d (%2d)#
+1401 INT: %2d (%2d)#
+1402 PER: %2d (%2d)#
+1403 CHR: %2d (%2d)# ??
+
+1404 Punteggio totale: %d#
+1405 Tempo#
+1406 Condotta# ??
+1407 Nessuna ricompensa# ??
+1408 Senza pensieri# ??
+1409 Senza cibo# ??
+1410 Vegetariano#
+1411 Analfabeta#
+1412 Uccisioni:#
+1413 none# ??
+
+
+# text crawl sequences
+
+1414 Clicca per continuare. ESC per saltare#
+
+1415 C'era una volta, in una terra lontana, una città chiamata Amleto.#
+
+1416
+
+Per generazioni, Amleto è stato un fiorente centro di commercio per tutte le città vicine e la fortuna dei suoi abitanti non era seconda a nessuno.#
+
+1417
+
+
+
+
+Questo fino a quando il Barone Herx non è arrivato a governare la loro terra.# ??
+
+1418
+
+
+
+
+
+
+Il Barone, nella sua infinita avidità, costrinse i suoi cittadini a scavare le colline circostanti alla ricerca dell'oro, anche se la terra non aveva mai dato un simile tesoro.# ??
+
+1419
+
+
+
+
+
+
+
+
+
+Nel frattempo, mentre la gente era costretta a lavorare, complottarono per liberarsi del loro ingiusto leader. Alla fine riuscirono a ingannarlo con una promessa d'oro e lo sigillarono nelle miniere stesse.#
+
+1420
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tuttavia, negli anni trascorsi da quando gli abitanti di Amleto si liberarono del loro sovrano, le cose non andarono bene per gli abitanti del villaggio.#
+
+1421
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Per uno scherzo del destino, una serie di mostri iniziò a emergere dal terreno intorno alla città. Alcuni pensarono che si trattasse di Herx che si stava vendicando dall'oltretomba, ma nessuno poteva esserne certo e alla fine tutti i commerci dentro e fuori la città si fermarono completamente.#
+
+1422
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oggi la regione di Amleto è considerata maledetta e nessuno sa se la città esista ancora...#
+
+1423 Vittorioso, entri nel portale. Non sai cosa aspettarti, ma sei inondato di sollievo. In qualche modo, sai che la maledizione del Barone è stata eliminata da questa terra.#
+
+1424
+
+
+
+
+
+Prima che tu abbia il tempo di pensare, ti ritrovi di nuovo davanti alle miniere. Ma c'è qualcosa di diverso: gli urli dei mostri lontani sono scomparsi e il cielo, un tempo nero e minaccioso, si sta schiarendo per mostrare di nuovo la luce del giorno.#
+
+1425
+
+
+
+
+
+
+
+
+
+
+
+All'improvviso, le porte della miniera si spalancano. Sigillate per secoli per contenere il male al loro interno, si aprono dall'interno, mentre un centinaio di umani riconoscenti si precipitano fuori per salutare colui che ha distrutto il Barone.#
+
+1426
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+La fonte infernale del potere del Barone rimane un mistero per te e una certa riflessione ti porta a pensare che sia necessaria una visita alla Gilda dei Maghi per indagare più a fondo. Per il momento, però, ti limiti ad occuparti dell'allegria delle persone che hai appena salvato...#
+
+1427
+
+
+Facendoti strada tra tutti i demoni che ti si parano davanti, attraversi il portale senza un attimo di esitazione. Ovunque è meglio di qui, o almeno così pensi.#
+
+1428
+
+
+
+
+All'improvviso, ti ritrovi stancamente in piedi in un'infinita sala bianca punteggiata da enormi pilastri che si estendono più in alto di quanto tu possa vedere. Per la stanchezza, lasci cadere le armi e fai un passo avanti.#
+
+1429
+
+
+
+
+
+
+
+
+
+Sicuramente, se dovesse succedere qualcosa ora saresti finito; eppure, senza spiegazioni, all'improvviso senti che il potere sta tornando in te. Una voce si fa sentire:#
+
+1430
+
+
+
+
+
+
+
+
+
+
+
+
+"Saluti, umano. Abbiamo assistito alle tue prove e tribolazioni e siamo infinitamente colpiti dalla tua forza d'animo e dalla tua volontà. Pertanto, abbiamo una proposta da farti..."#
+
+1431
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mentre la voce si rivolge a te, ti ritrovi a non voler o non poter rifiutare ciò che ti dice. Alla fine, si manifesta un inspiegabile cambiamento nel tuo essere mortale e ti senti svanire...#
+
+1432
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"Il male svanisce dal mondo mortale e il suo Guardiano dorme. La prima era si conclude e inizia l'era del caos. Riposa ora, valoroso: il tuo tempo tornerà"#
+
+
+# even more button and window text
+
+1433   OK  #
+1434 Video#
+1435 Audio#
+1436 Comandi#
+1437 Mouse#
+1438 Misc#
+
+1439
+Collegamento al server non riuscito:
+
+#
+
+1440
+Avvio del server non riuscito:
+
+# ??
+
+1441
+Collegamento alla lobby selezionata non riuscito:
+
+# ??
+
+1442
+Creazione della lobby non riustito.
+
+# ??
+
+1443
+La connessione al server è stata persa.
+
+#
+
+1444 Richiesta dell'elenco delle lobby...# ??
+
+1445 Partecipa# ??
+1446  Ricarica #
+
+1447
+Connessione alla lobby di matchmaking...
+# ??
+
+1448
+Porta#
+
+1449 Host#
+
+1450
+Indirizzo:Porta# ??
+
+1451 Partecipa# ??
+
+1452 Sei entrato in una lobby.
+# ??
+
+1453 NOTA: Poiché stai caricando una salvataggio, solo i giocatori con salvataggi compatibili possono partecipare.
+#
+
+1454
+Premi "Avvia la partita" quando tutti sono entrati.
+Host sulla porta: # ??
+
+1455
+Premi "Avvia la partita" quando tutti sono entrati.
+#
+
+1456
+
+Elenco dei giocatori:
+#
+
+1457 Avvia la partita#
+1458 Invita amici#
+
+1459
+Connessione al server. Attendere prego...
+# ??
+
+1460
+Abbiamo trovato dei file di salvataggio per il personaggio:
+
+# ??
+
+1461
+
+
+Vuoi iniziare una nuova partita o continuare una partita salvata?
+
+NOTA: l'avvio di una nuova partita in solitaria o in multiplayer cancellerà il file di salvataggio precedente!#
+
+1462 Continua partita solitaria# ??
+1463 Inizia una nuova partita (ENTER)# ??
+1464 Continua#
+1465 Indietro#
+1466 Personaggio random#
+
+1467
+Connessione alla lobby di matchmaking...
+#
+
+
+# obituary messages
+
+1499
