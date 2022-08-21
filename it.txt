@@ -2268,4 +2268,166 @@ Connessione alla lobby di matchmaking...
 
 # obituary messages
 
-1499
+1499 %s è %s alleato %s# ??
+1500 muore in modo casuale.#
+1501 viene arrostito da una palla di fuoco.#
+1502 viene congelato da una palla di ghiaccio.#
+1503 incappa in una trappola di frecce.# ??
+1504 inciampa in una trappola per orsi e muore.#
+1505 non riesce a schivare il macigno in arrivo.# ??
+1506 fa una nuotata nella lava.# ??
+1507 cammina su di una trappola a spuntoni e muore.# ??
+1508 viene uciso da un %s volante.# ??
+1509 è stato tradito dal suo compagno %s.#
+1510 è stato tradito dalla sua compagna %s.# ??
+1511 viene violentemente ucciso da un umano arrabbiato.# ??
+1512 viene rosicchiato a morte da un umile ratto.# ??
+1513 viene ferocemente scuoiato da un goblin.# ??
+1514 è stato inglobato da un viscido blob.# ??
+1515 invade la zona di comfort del troll e viene preso a mazzate.# ??
+1516 fa una bella cena per un ragno affamato.# ??
+1517 decide di diventare un tutt'uno con i non morti.#
+1518 viene spaventato da uno scheletro terrificante.#
+1519 cerca di fare amicizia con uno scorpione arrabbiato.#
+1520 dimentica che gl'imp fluttuanti non sono molto amichevoli.# ?? non riesco a tradurlo imp, mi ricorda troppo ror2
+1521 viene derubato da uno gnomo avido.# ??
+1522 viene squartato da un demone.#
+1523 cerca invano di fare l'amore con la succube.# ??
+1524 si mette dalla parte del Barone.# ??
+1525 viene polverizzato senza tanti riguardi dal minotauro.#
+1526 è dannato all'inferno. Letteralmente.# ??
+1527 tenta una rapina e fallisce.#
+1528 si suicida durante un'invocazione.# ??
+1529 si suicida durante un'invocazione.# ??
+1530 ha seguito la dieta per po' troppo tempo.# ??
+1531 viene terminato dal veleno.# ??
+1532 sanguina fino alla morte.#
+1533 brucia fino a diventare croccante.# ??
+1534 viene soffocato a morte.#
+1535 beve la pozione divertente e muore.#
+
+
+# some random strings
+1536 disabilita i messaggi pop-up#
+1537 (ip diretto)# ??
+1538 Host di una partita multiplayer senza matchmaking, utilizzando una connessione IP diretta.# ??
+1539 Partecipa a una partita multiplayer senza matchmaking, utilizzando una connessione IP diretta.# ??
+1540 %s, livello %d %s
+livello del dungeon %d, singleplayer, %s#
+1541 %s, livello %d %s
+livello del dungeon %d, server, %s#
+1542 %s, livello %d %s
+livello del dungeon %d, client (player %d), %s#
+1543 %s, livello %d %s
+livello del dungeon %d, client (ip diretto), %s# ??
+1544 %s, livello %d %s
+livello del dungeon %d, client (player %d) (ip diretto), %s# ??
+
+# item names
+
+1545 scudo di legno#
+1546 scudo di legno#
+1547 quarter staff# ?? cercate su internet è un arma inglese...
+1548 quarter staff# ?? cercate su internet è un arma inglese...
+1549 spada di bronzo#
+1550 spada di bronzo#
+1551 mazza ferrata di bronzo# ??
+1552 mazza ferrata di bronzo# ??
+1553 ascia di bronzo#
+1554 ascia di bronzo#
+1555 scudo di bronzo#
+1556 scudo di bronzo#
+1557 fionda#
+1558 fionda#
+1559 lancia di ferro#
+1560 lancia di ferro#
+1561 spada di ferro#
+1562 spada di ferro#
+1563 mazza ferrata di ferro# ??
+1564 mazza ferrata di ferro# ??
+1565 ascia di ferro#
+1566 ascia di ferro#
+1567 scudo di ferro#
+1568 scudo di ferro#
+1569 arco corto#
+1570 arco corto#
+1571 alabarda d'acciaio#
+1572 alabarda d'acciaio#
+1573 spada d'acciaio#
+1574 spada d'acciaio#
+1575 mazza ferrata d'acciaio# ??
+1576 mazza ferrata d'acciaio# ??
+1577 ascia d'acciaio#
+1578 ascia d'acciaio#
+1579 scudo d'acciaio#
+1580 scudo d'acciaio#
+1581 scudo d'acciaio con resistenza alla magia# ??
+1582 scudo d'acciaio#
+1583 balestra#
+1584 balestra#
+1585 guanti di pelle#
+1586 guanti#
+1587 guanti di pelle della destrezza#
+1588 guanti#
+1589 bracciali di ferro#
+1590 bracciali#
+1591 bracciali di ferro# della costituzione#
+1592 bracciali#
+1593 guanto d'arme d'acciaio# ??
+1594 guanto d'arme#
+1595 guanto d'arme d'acciaio della forza# ??
+1596 guanto d'arme#
+1597 mantello#
+1598 mantello#
+1599 mantello della riflessione magica# ??
+1600 mantello#
+1601 mantello dell'invisibilità#
+1602 mantello#
+1603 mantello della protezione#
+1604 mantello#
+1605 stivali in cuoio#
+1606 stivali in cuoio#
+1607 stivali in cuoio della velocità#
+1608 stivali in cuoio#
+1609 stivali di ferro#
+1610 stivali di ferro#
+1611 stivali di ferro per camminare sull'acqua# ?? gli stivali di cristo lol
+1612 stivali di ferro#
+1613 stivali d'acciaio#
+1614 stivali d'acciaio#
+1615 stivali d'acciaio della levitazione#
+1616 stivali d'acciaio#
+1617 stivali d'acciaio di piume# ??
+1618 stivali d'acciaio#
+1619 pettorale in cuoio# ??
+1620 pettorale in cuoio# ??
+1621 pettorale in ferro# ??
+1622 pettorale in ferro# ??
+1623 pettorale d'acciaio# ??
+1624 pettorale d'acciaio# ??
+1625 cappello frigio#
+1626 cappello frigio#
+1627 cappuccio# ??
+1628 cappuccio# ??
+1629 cappello da mago#
+1630 cappello da mago#
+1631 capello da giullare#
+1632 capello da giullare#
+1633 casco in cuoio#
+1634 casco in cuoio#
+1635 elmo di ferro#
+1636 elmo di ferro#
+1637 elmo d'acciaio#
+1638 elmo d'acciaio#
+1639 amuleto del cambio di sesso#
+1640 amuleto#
+1641 amuleto salvavita# ??
+1642 amuleto#
+1643 amuleto del nuoto olimpico#
+1644 amuleto#
+1645 amuleto della riflessione magica# ??
+1646 amuleto#
+1647 amuleto dello strangolamento#
+1648 amuleto#
+1649 amuleto della resistenza al veleno#
+1650 amuleto#
