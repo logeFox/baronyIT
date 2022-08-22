@@ -2431,3 +2431,237 @@ livello del dungeon %d, client (player %d) (ip diretto), %s# ??
 1648 amuleto#
 1649 amuleto della resistenza al veleno#
 1650 amuleto#
+1651 bottiglia d'acqua#
+1652 pozione#
+1653 bottiglia di alcolici#
+1654 pozione#
+1655 bottiglia di succo di frutta# ??
+1656 pozione#
+1657 pozione di sickness# ??
+1658 pozione#
+1659 pozione della confusione# ??
+1660 pozione#
+1661 pozione della cura extra# ??
+1662 pozione#
+1663 pozione di cura#
+1664 pozione#
+1665 pozione di cura dei malanni# ?? non ho idea di cosa sia
+1666 pozione#
+1667 pozione della cecità# ??
+1668 pozione#
+1669 pozione del ripristino del mana# ??
+1670 pozione#
+1671 pozione dell'invisibilità#
+1672 pozione#
+1673 pozione della levitazione#
+1674 pozione#
+1675 pozione della velocità#
+1676 pozione#
+1677 pozione dell'acido# ??
+1678 pozione#
+1679 pozione della paralisi# ??
+1680 pozione#
+1681 pezzo di lettera# ??
+1682 pergamena timbrata# ??
+1683 pergamena dell'identificazione# ??
+1684 pergamena#
+1685 pergamena della luce# ??
+1686 pergamena#
+1687 pergamena vuota# ??
+1688 pergamena#
+1689 pergamena delle armi incantate# ??
+1690 pergamena#
+1691 pergamena dell'armatura incantata# ??
+1692 pergamena#
+1693 pergamena della rimozione delle maledizioni# ??
+1694 pergamena#
+1695 pergamena del fuoco# ??
+1696 pergamena#
+1697 pergamena del cibo# ??
+1698 pergamena#
+1699 pergamena della mappatura magica# ??
+1700 pergamena#
+1701 pergamena della riparazione# ??
+1702 pergamena#
+1703 pergamena dell'armatura distrutta# ??
+1704 pergamena#
+1705 pergamena del teletrasporto# ??
+1706 pergamena#
+1707 pergamena delle evocazioni# ??
+1708 pergamena#
+1709 staffa magica della luce#
+1710 staffa magica#
+1711 staffa magica dello scavo#
+1712 staffa magica#
+1713 staffa magica del locking# ??
+1714 staffa magica#
+1715 staffa magica del missile magico# ??
+1716 staffa magica#
+1717 staffa magica del opening# ??
+1718 staffa magica#
+1719 staffa magica della lentezza# ??
+1720 staffa magica#
+1721 staffa magico del gelo# ??
+1722 staffa magica#
+1723 staffa magico del fuoco# ??
+1724 staffa magica#
+1725 staffa magico del fulmine# ??
+1726 staffa magica#
+1727 staffa magico del sonno# ??
+1728 staffa magica#
+1729 anello ornamentale#
+1730 anello#
+1731 anello della digestione lenta#
+1732 anello#
+1733 anello della protezione#
+1734 anello#
+1735 anello di avvertimento# ??
+1736 anello#
+1737 anello della forza#
+1738 anello#
+1739 anello della costituzione#
+1740 anello#
+1741 anello della invisibilità#
+1742 anello#
+1743 anello della resistenza alla magia#
+1744 anello#
+1745 anello del conflitto# ??
+1746 anello#
+1747 anello della levitazione# ??
+1748 anello#
+1749 anello della rigenerazione# ??
+1750 anello#
+1751 anello del teletrasporto#
+1752 anello#
+1753 libro incantato di forcebolt# ??
+1754 libro incantato#
+1755 libro incantato del missile magico# ??
+1756 libro incantato#
+1757 libro incantato del gelo# ??
+1758 libro incantato#
+1759 libro incantato della palla di fuoco# ??
+1760 libro incantato#
+1761 libro incantato della luce# ??
+1762 libro incantato#
+1763 libro incantato della rimozione delle meledizioni# ??
+1764 libro incantato#
+1765 libro incantato dei fulmini# ??
+1766 libro incantato#
+1767 libro incantato dell'identificazione# ??
+1768 libro incantato#
+1769 libro incantato della mappatura magica# ??
+1770 libro incantato#
+1771 libro incantato del sonno# ??
+1772 libro incantato#
+1773 libro incantato della confusione# ??
+1774 libro incantato#
+1775 libro incantato della lentezza# ??
+1776 libro incantato#
+1777 libro incantato dell'opening# ??
+1778 libro incantato#
+1779 libro incantato del locking# ??
+1780 libro incantato#
+1781 libro incantato della levitazione# ??
+1782 libro incantato#
+1783 libro incantato dell'invisibilità# ??
+1784 libro incantato#
+1785 libro incantato del teletrasporto# ??
+1786 libro incantato#
+1787 libro incantato della cura# ??
+1788 libro incantato#
+1789 libro incantato della cura extra# ??
+1790 libro incantato#
+1791 libro incantato della guarigione extra# ??
+1792 libro incantato#
+1793 libro incantato dello scavo# ??
+1794 libro incantato#
+1795 pietra# 
+1796 pietra#
+1797 pietra della fortuna#
+1798 pietra#
+1799 granato#
+1800 gemma#
+1801 rubino#
+1802 gemma#
+1803 giacinto#
+1804 gemma#
+1805 ambra#
+1806 gemma#
+1807 citrino#
+1808 gemma#
+1809 giada#
+1810 gemma#
+1811 smeraldo#
+1812 gemma#
+1813 zaffiro#
+1814 gemma#
+1815 acquamarina#
+1816 gemma#
+1817 ametista#
+1818 gemma#
+1819 fluorite#
+1820 gemma#
+1821 opale#
+1822 gemma#
+1823 diamante#
+1824 gemma#
+1825 jetstone# ??
+1826 gemma#
+1827 ossidiana#
+1828 gemma#
+1829 pezzo di vetro senza valore#
+1830 gemma#
+1831 piccone#
+1832 piccone#
+1833 apriscatole#
+1834 apriscatole#
+1835 specchio#
+1836 specchio#
+1837 grimaldello#
+1838 grimaldello#
+1839 chiave scheletrica# ??
+1840 chiave#
+1841 torcia#
+1842 torcia#
+1843 lanterna#
+1844 lanterna#
+1845 benda#
+1846 benda#
+1847 asciugamano#
+1848 asciugamano#
+1849 occhiali#
+1850 occhiali#
+1851 trappola per orsi#
+1852 trappola per orsi#
+1853 pane#
+1854 pane#
+1855 torta alla crema#
+1856 torta alla crema#
+1857 formaggio#
+1858 formaggio#
+1859 mela#
+1860 mela#
+1861 carne#
+1862 carne#
+1863 pesce#
+1864 pesce#
+1865 lattina#
+1866 lattina#
+1867 libro#
+1868 libro leggibile#
+1869 incantesimo#
+1870 incantesimo#
+1871 Dyrnwyn#
+1872 spada magica#
+1873 Sharur#
+1874 mazza magica#
+1875 Gungnir#
+1876 lancia magica#
+1877 Parashu#
+1878 ascia magica#
+1879 Khryselakatos#
+1880 arco magico#
+
+# new random messages
+
+1882
