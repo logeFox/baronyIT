@@ -2664,4 +2664,165 @@ livello del dungeon %d, client (player %d) (ip diretto), %s# ??
 
 # new random messages
 
-1882
+## WTF
+
+1882 abilità in %s: %s# ??
+1883 Abilità#
+
+# menu subtitles
+
+1910 Edizione con logo aggiornato!# ??
+1911 Anche TowerClimb è divertente!#
+1912 Rogue Wizards è affascinante!# ??
+1913 Prova Crayon Chronicles!#
+1914 Director's Cut!# ??
+1915 Il Pre-Sequel!#
+1916 Il Ritorno del Ritorno del Ritorno!#
+1917 Ora con le trappole a macigni!# ??
+1918 Minotauro certificato al 100%!#
+1919 Versione Heart-Gold!# ??
+1920 RNG migliorato!# ??
+1921 Adesso con il Crossplay!# ??
+1922 Approvato da Baphomet!#
+1923 A grande richiesta!#
+1924 La scelta del re delle patate!#
+1925 Approvato da Sharur. È vero!# ??
+1926 NESSUNO si aspetta l'Inquisizione spagnola!# ??
+1927 Fa parte di una colazione equilibrata!# ??
+1928 Arriva a 11!# ??
+1929 Subito dopo questi messaggi!# ??
+1930 Condividi il peso!# ??
+1931 Cosa vedono i tuoi occhi da elfo?#
+1932 Stanno portando gli hobbit a Isengard!# ??
+1933 Non puoi passare!# ??
+1934 E per quanto riguarda la colazione?# ??
+1935 Un mago non è mai in ritardo!# ??
+1936 E la mia ascia!#
+1937 Troll nel dungeon!# ??
+1938 Fool of a Took!# ??
+1939 Tagliatele la testa!# ??
+
+# extra keybindings :)
+
+1940 Attacco#
+1941 Usa#
+
+# game/server flags tooltips
+
+# Cheats
+1942 NOTA: Abilitare i cheat significa disabilitare gli Achievements nei tuoi salvataggi!
+# Friendly fire.
+1943 NOTA: Attivando il Fuoco Amico potrai danneggiare i tuoi alleati con attacchi e magie!
+# Minotaurs.
+1944 NOTA: Disabilitando questa funzione i minotauri non potranno spawnare nei livelli normali,
+permettendoti di affrontare ogni livello con il tuo tempo.#
+# Hunger.
+1945 NOTA: La disattivazione della fame elimina la necessità di mangiare cibo per evitare di morire di fame.
+# Traps.
+1946 NOTA: Rimuove solo le trappole generate casualmente, come i macigni e le trappole a freccia lungo
+i bordi e i corridoi dei livelli. Le trappole così si troveranno
+solo all'interno di stanze progettate per contenerle.#
+
+# Gamepad settings menu stuff.
+1947 Controlli del Gamepad#
+
+# Bifunctional bindings.
+1948 Stato del personaggio#
+1949 Lista delle magie#
+1950 Menu/Esci# ??
+1951 D-pad sinistra#
+1952 D-pad destra#
+1953 D-pad su#
+1954 D-pad giù#
+
+# Menu exclusive bindings.
+1955 "Click sinistro" (nei MENU)#
+1956 Prossimo (nei MENU)#
+1957 Annulla# ?? meglio cancella?
+1958 pagina delle impostazioni successiva# ??
+1959 pagina delle impostazioni precedente# ??
+1960 Aggiorna le lobby# ??
+1961 Non caricare il salvataggio (Nuova Partita)#
+1962 Nome random#
+1963 Personaggio random#
+1964 Pagina dell'inventario precedente# ??
+1965 Pagina dell'inventario successiva# ??
+1966 Menu contestuale dell'oggetto# ??
+1967 Getta l'oggetto# ??
+1968 Svuota lo slot della Hotbar#
+1969 Prendi tutto dal baule#
+1970 Categioria del negozio precedente#
+1971 Categoria del negozio successiva#
+1972 Pagina del libro precedente#
+1973 Pagina del libro successiva#
+
+# Game exclusive bindings.
+1974 Usa#
+1975 Parati con lo scudo# ??
+1976 Attacca#
+1977 Lancia un'incantesimo#
+1978 Attiva lo slot della Hotbar#
+1979 Slot della Hotbar successivo#
+1980 Slot della Hotbar precedente#
+1981 Scala della minimappa# ??
+1982 Attiva/Disattiva il Chatlog# ??
+1983 Menu ad accesso rapido dell NPC# ??
+1984 Ripeti l'ultimo comando all'ultimo seguace# ??
+1985 Cicla il seguace selezionato# ??
+
+# Other bindings.
+1986 Auto Ordinamento dell'inventario#
+1987 Scala della minimappa# ??
+1988 Attiva/Disattiva il Chatlog# ??
+1989 Menu ad accesso rapido dell NPC# ??
+1990 Ripeti l'ultimo comando all'NPC# ??
+1991 Cicla attraverso gli NPC#
+
+# More stuff on the gamepad bindings screen.
+1992 Controlli escusivi del Menu:#
+1993 Controlli escusivi del Gioco:#
+1994 Fai Click per rimuovere l'assegnazione. Fai click su un azione non assegnata per assegnarli un tasto.# ??
+
+
+1997 Esamina gli oggetti in automatico# ??
+1998 protezione con il tasto destro# ??
+
+# START DLC
+# monsters, reserve 2000-2049 for monster names, 2050 - 2099 for plurals, 2100 - 2150 for injury types
+
+2000 kobold#
+2001 scarabeo#
+2002 golem di cristallo#
+2003 incubus# ?? demone?
+2004 vampiro#
+2005 ombra# ?? conviene tradurlo?
+2006 cockatrice#
+2007 insettoide# ??
+2008 uomo capra# ??
+2009 automa#
+2010 lich del gelo#
+2011 lich di fuoco# ??
+2012 botSentinella# ??
+2013 botMagico# ??
+2014 gyrobot# ??
+2015 botManichino# ??
+
+# monster prulars
+
+2050 kobold#
+2051 scarabei#
+2052 golem di cristallo#
+2053 incubus# ?? demone?
+2054 vampiri#
+2055 ombre# ?? conviene tradurlo?
+2056 cockatrice#
+2057 insettoidi# ??
+2058 uomini capra# ??
+2059 automi#
+2060 lich del gelo#
+2061 lich di fuoco# ??
+2062 botSentinella# ??
+2063 botMagico# ??
+2064 gyrobot# ??
+2065 botManichino# ??
+
