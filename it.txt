@@ -2826,3 +2826,130 @@ solo all'interno di stanze progettate per contenerle.#
 2064 gyrobot# ??
 2065 botManichino# ??
 
+# injury types (2100-2149)
+
+2100 hits# ??
+2101 morsi#
+2102 colpi# ??
+2103 schiaffi# ??
+2104 mauls# ??
+2105 colpi# ??
+2016 graffi#
+2017 punture# ??
+2018 schiacciato# ??
+2019 botta# ??
+2110 hits# ??
+2111 hits# ??
+2112 hits# ??
+2113 hits# ??
+2114 hits# ??
+2115 hits# ??
+
+# additional obituary messages (2150-2199)
+2150 diventa vittima della violenza di una banda di kobold.# ??
+2151 ha sottovaluto la potenza masticatoria delle mandibole degli scarabei.# ??
+2152 rimane incastrato tra un golem di cristallo e un posto difficile.# ??
+2153 dimentica la parola di sicurezza di una succube# ??
+2154 dona il sangue ad un vampirio.#
+2155 diventa l'ombra di se stesso.# ??
+2156 aspetta troppo a lungo per reagire ad una cockatrice.# ??
+2157 viene assassinato da un astuto insettoide.# ??
+2158 viene picchiato a morte da un uomo capra ubriaco.# ??
+2159 viene terminato da un automa.#
+2160 non riuscì a sventare i piani di Erudyce.# ??
+2161 non riusciva a contrastare il potere di Orfeo.# ??
+2162 viene terminato da un bot sentinella#
+2163 viene terminato da un bot magico# ??
+2164 viene terminato da un gyrobot# ??
+2165 viene terminato da un bot manichino# ??
+
+# items, reserve (2200-2349) for new items
+2200 Posta del Drago# ??
+2201 artifact breastpiece# ??
+2202 Velo della Sfinge#
+2203 artifact helm# ??
+2204 Le pedate di Oracle# ??
+2205 artifact boots# ??
+2206 Abito dello Spettro# ??
+2207 artifact cloak# ??
+2208 Il Tutore di Djinni# ??
+2209 artifact gloves# ??
+2210 pettorale di cristallo#
+2211 pettorale di cristallo#
+2212 elmo di cristallo#
+2213 elmo di cristallo#
+2214 stivali di cristallo#
+2215 stivali di cristallo#
+2216 scudo di cristallo#
+2217 scudo di cristallo#
+2218 guanto d'arme di cristallo#
+2219 guanto d'arme di cristallo#
+2220 farsetto da vampiro# ??
+2221 farsetto#
+2222 farsetto da mago# ??
+2223 farsetto#
+2224 farsetto da guaritore# ??
+2225 farsetto#
+2226 scudo di specchi# ??
+2227 scudo di specchi# ??
+2228 tirapugni in ottone#
+2229 tirapugni#
+2230 tirapugni in ferro#
+2231 tirapugni#
+2232 guanti chiodati# ??
+2233 tirapugni#
+2234 tomalley# ??
+2235 tomalley# ??
+2236 frammento di cristallo#
+2237 frammento di cristallo#
+2238 spada di cristallo#
+2239 spada di cristallo#
+2240 lancia di cristallo#
+2241 lancia di cristallo#
+2242 ascia di cristallo#
+2243 ascia di cristallo#
+2244 mazza di cristallo#
+2245 mazza di cristallo#
+2246 tomahawk di bronzo#
+2247 tomahawk di bronzo#
+2248 daga di ferro#
+2249 daga di ferro#
+2250 chakram d'acciaio#
+2251 chakram d'acciaio#
+2252 shuriken di cristallo#
+2253 shuriken di cristallo#
+2254 mantello nero#
+2255 mantello nero#
+2256 staffa magica di stoneblood# ??
+2257 staffa magica#
+2258 staffa magica del bloodletting# ??
+2259 staffa magica#
+2260 staffa magica dell'evocatore degli scheletri#
+2261 staffa magica#
+2262 benda della concentrazione#
+2263 benda#
+2264 benda della telepatia#
+2265 benda#
+2266 libro dell'evocazione degli scheletri#
+2267 libro magico#
+2268 libro dello stoneblood# ??
+2269 libro magico#
+2270 libro del bloodletting# ??
+2271 libro magico#
+2272 libro della riflessione magica#
+2273 libro magico#
+2274 libro dello spray acido# ??
+2275 libro magico#
+2276 libro magico delle armi in acciaio# ??
+2277 libro magico#
+2278 libro dell'anima prosciugata# ??
+2279 libro magico#
+2280 libro dell'aurea vampirica#
+2281 libro magico#
+2282 libro del mostro incantevole# ??
+2283 libro magico#
+2284 bottiglia vuota#
+2285 bottiglia vuota#
+2286 sfera mistica blu# ??
+2287 sfera mistica blu# ??
+2288 
