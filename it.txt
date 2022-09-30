@@ -2950,6 +2950,6 @@ solo all'interno di stanze progettate per contenerle.#
 2283 libro magico#
 2284 bottiglia vuota#
 2285 bottiglia vuota#
-2286 sfera mistica blu# ??
-2287 sfera mistica blu# ??
+2286 sfera mistica blu#
+2287 sfera mistica blu#
 2288 
